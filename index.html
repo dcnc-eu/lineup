@@ -3,74 +3,23 @@
 
 <head>
     <title>CloudLand Lineup</title>
-    <script type="text/javascript"
-        src="https://unpkg.com/vis-timeline@7.7.0/standalone/umd/vis-timeline-graph2d.min.js"></script>
-    <link href="https://unpkg.com/vis-timeline@7.7.0/styles/vis-timeline-graph2d.min.css" rel="stylesheet"
-        type="text/css" />
-    <style type="text/css">
-        #visualization {
-            width: 95%;
-            border: none;
-        }
-
-        body {
-            overflow-x: hidden;
-        }
-
-        .logo {
-            max-height: 35px;
-        }
-
-        .q1 {
-            background-color: rgb(207, 207, 207);
-        }
-
-        .q2 {
-            background-color: rgb(255, 255, 255);
-        }
-
-        .q3 {
-            background-color: rgb(207, 207, 207);
-        }
-
-        .q4 {
-            background-color: rgb(255, 255, 255);
-        }
-
-        .l1 {
-            background-color: rgb(255, 187, 187);
-        }
-
-        .l2 {
-            background-color: rgb(140, 199, 255);
-        }
-
-        .l3 {
-            background-color: rgb(169, 255, 148);
-        }
-
-        .l4 {
-            background-color: rgb(216, 194, 95);
-        }
-
-        .l5 {
-            background-color: rgb(255, 253, 162);
-        }
-
-        .vis-group, .vis-label, .vis-group, .vis-item-content, .vis-item {
-            max-height: 9em;
-        }
-    </style>
-</head>
-
-<body>
     <meta charset="utf-8">
     <link rel="icon"
         href="data:image/png;base64,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"
         type="image/x-icon" />
+
+    <script type="text/javascript"
+        src="https://unpkg.com/vis-timeline@7.7.0/standalone/umd/vis-timeline-graph2d.min.js"></script>
+    <script type="text/javascript" src="script.js" charset="utf-8"></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/vis-timeline@7.7.0/styles/vis-timeline-graph2d.min.css"
+        crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+</head>
 
+<body onload="init()">
     <div class="container-md">
         <div class="row">
             <div class="col text-center">
@@ -85,121 +34,6 @@
             </div>
         </div>
     </div>
-
-    <script>
-
-        function fold(input, lineSize, lineArray) {
-            lineArray = lineArray || [];
-            if (input.length <= lineSize) {
-                lineArray.push(input);
-                return lineArray;
-            }
-            lineArray.push(input.substring(0, lineSize));
-            var tail = input.substring(lineSize);
-            return fold(tail, lineSize, lineArray);
-        }
-
-        function textFold(value) {
-            var arrayOfLines = fold(value, 50);
-            return arrayOfLines.join('<br/>');
-        }
-
-        function item(icon, name, speaker) {
-            var item = document.createElement('div');
-            var html = `
-                <p><b>${textFold(name)}</b></p><br/>
-                ${icon}&nbsp;<i>${speaker}</i>
-            `;
-
-            item.innerHTML = html;
-            return item;
-        }
-
-        function group(logo, name) {
-            var group = document.createElement('div');
-            var html = `
-                <h3>${name}</h3><br/>
-                <div class="d-flex align-items-center justify-content-center">
-                    <img class="logo" src="${logo}" />
-                </div>
-            `;
-
-            group.innerHTML = html;
-            return group;
-        }
-
-        var groups = new vis.DataSet([
-            { id: 0, content: 'Quantum 1️⃣', value: 1, className: "q1" },
-            { id: 1, content: 'Quantum 2️⃣', value: 2, className: "q2" },
-            { id: 2, content: 'Quantum 3️⃣', value: 3, className: "q3" },
-            { id: 3, content: 'Quantum 4️⃣', value: 4, className: "q4" },
-            { id: 4, content: group('https://web.arbeitsagentur.de/headerfooter/hf-v5/releases/v3.x/bahf-webcomponents/assets/ba-logo.svg', '🔴 Lounge'), value: 5, className: "l1" },
-            { id: 5, content: group('https://www.doag.org/typo3conf/ext/doag/Resources/Public/Images/logo.jpg', '🔵 Lounge'), value: 6, className: "l2" },
-            { id: 6, content: group('https://images.ctfassets.net/xi2w3mrrrnxe/332TPxmatonEn4O6dZCKmB/1a80e4640bd78560f876ff5168bba9f3/flyeralarm-partner_frauen-fussball-bundesliga.png?q=90&fm=webp', '🟢 Lounge'), value: 7, className: "l3" },
-            { id: 7, content: group('https://www.viadee.de/wp-content/themes/viadee/img/navigate-logo.png', '🟠 Lounge'), value: 8, className: "l4" },
-            { id: 8, content: group('https://web-cdn.e2n.de/wp-content/uploads/2022/10/logo-e2n.png', '🟡 Lounge'), value: 9, className: "l5" }
-        ]);
-
-
-
-        // create a dataset with items
-        // note that months are zero-based in the JavaScript Date object, so month 3 is April
-        var items = new vis.DataSet([
-            { id: 0, group: 0, content: item('💃', 'MediaMarktSaturn Technology Backstage', 'Kevin Fritz'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 11, 45) },
-            { id: 1, group: 0, content: item('🧞', 'Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices', 'Martin Kurz'), start: new Date(2023, 6, 21, 12, 00), end: new Date(2023, 6, 21, 12, 45) },
-            { id: 2, group: 0, content: item('🧚‍♀️', 'Living on the Edge - Ein Rechenzentrum im Reisekoffer', 'Fahlandt, Mario'), start: new Date(2023, 6, 21, 13, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 3, group: 1, content: item('🧞', 'Meine Cloud ist kaputt - Troubleshooting in der Cloud', 'Ralph Löwe'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 11, 45) },
-            { id: 4, group: 1, content: item('💃', 'Case-Study: Multi-Cloud Kubernetes in action', 'Srinivas, Raghavan'), start: new Date(2023, 6, 21, 14, 00), end: new Date(2023, 6, 21, 14, 45) },
-            { id: 5, group: 2, content: item('🍓', 'DevOps in Enterprise Umgebungen - Kultur, Organisation und Technologie', 'David Koenig'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 11, 45) },
-            { id: 6, group: 3, content: item('🍓', 'Robuste Datenpipeline mit Open-Source-Software erstellen', 'Dittmann, Sascha'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 11, 45) },
-            { id: 7, group: 8, content: item('🧞', 'Von der Domäne zur Implementierung mit Event Modeling', 'Frank Steimle, Florian Pfleiderer'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 14, 45) },
-            { id: 8, group: 7, content: item('💃', 'From Pets to Cattle in your Smarthome!', 'Herr Dominic Giebert'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 9, group: 8, content: item('🧚‍♀️', 'aufschlag.mörser.tulpe - Geodaten und ihre Verwendung', 'Wildenberg, Armin'), start: new Date(2023, 6, 21, 15, 00), end: new Date(2023, 6, 21, 15, 45) },
-            { id: 10, group: 6, content: item('💃', 'Kubernetes-Cluster auf Raspberry Pis aufsetzen', 'Harmathy, Max'), start: new Date(2023, 6, 21, 16, 00), end: new Date(2023, 6, 21, 18, 45) },
-            { id: 11, group: 5, content: item('🧞', 'Kubernetes-Deployment Step-by-Step', 'Gallmann, Tanja'), start: new Date(2023, 6, 21, 13, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 12, group: 5, content: item('🍓', 'Capture the Juice: Hack the OWASP JuiceShop', 'Simon Trockel, Daniel Klinger'), start: new Date(2023, 6, 21, 16, 00), end: new Date(2023, 6, 21, 18, 45) },
-            { id: 13, group: 4, content: item('🥚', 'Technnology-Radar', 'The two and only Michel & Björn'), start: new Date(2023, 6, 21, 17, 00), end: new Date(2023, 6, 21, 18, 45) },
-            { id: 14, group: 3, content: item('🍓', 'Distributed SQL on containers: YugabyteDB', 'Pachot, Franck'), start: new Date(2023, 6, 21, 12, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 15, group: 2, content: item('💃', 'Machine Learning in der Cloud - die MLOps Plattform Kubeflow', 'Verena Barth'), start: new Date(2023, 6, 21, 12, 00), end: new Date(2023, 6, 21, 12, 45) },
-            { id: 16, group: 5, content: item('🥚', 'Cloudland plays!', 'Gutmann, Igor'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 11, 45) },
-            { id: 17, group: 5, content: item('🧚‍♀️', 'Cloud Native Security: Cloud ? Aber sicher !', 'Jürjens, Jan'), start: new Date(2023, 6, 21, 14, 00), end: new Date(2023, 6, 21, 15, 45) },
-            { id: 18, group: 4, content: item('🧚‍♀️', 'Pulumi Cloud Infrastruktur Challange (Vortrag und Challange)', 'Klatt, Benjamin'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 19, group: 4, content: item('🧞', 'Github Copilot vs Amazon CodeWhisperer for Java developers', 'Vadym Kazulkin'), start: new Date(2023, 6, 21, 15, 00), end: new Date(2023, 6, 21, 16, 45) },
-            { id: 20, group: 6, content: item('', 'Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native', 'Grünwald, Renke'), start: new Date(2023, 6, 21, 11, 00), end: new Date(2023, 6, 21, 14, 45) },
-            { id: 21, group: 1, content: item('💃', 'Enterprise-level Kubernetes Security mit Open Source Tools - geht das?', 'Zimmermann, Markus'), start: new Date(2023, 6, 21, 12, 00), end: new Date(2023, 6, 21, 12, 45) },
-            { id: 22, group: 0, content: item('🥚', 'Tackling cross-cutting concerns within your architecture', 'Daniel Kocot'), start: new Date(2023, 6, 21, 14, 00), end: new Date(2023, 6, 21, 14, 45) },
-            { id: 23, group: 0, content: item('🍓', 'Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains', 'Krischan Dickel'), start: new Date(2023, 6, 21, 15, 00), end: new Date(2023, 6, 21, 15, 45) },
-            { id: 24, group: 0, content: item('🥚', 'Entertaining the masses with AWS AppSync and serverless technologies', 'Aumann, Joachim'), start: new Date(2023, 6, 21, 16, 00), end: new Date(2023, 6, 21, 16, 45) },
-            { id: 25, group: 1, content: item('💃', 'Die Top Ten der Cloud Security Fails und wie man sie vermeidet', 'Schubert, Kai'), start: new Date(2023, 6, 21, 13, 00), end: new Date(2023, 6, 21, 13, 45) },
-            { id: 26, group: 2, content: item('🍓', 'Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.', 'Mario-Leander Reimer'), start: new Date(2023, 6, 21, 14, 00), end: new Date(2023, 6, 21, 14, 45) },
-            { id: 27, group: 7, content: item('💃', 'Microservices mit Golang in der Nussschale', 'Alexander Troppmann'), start: new Date(2023, 6, 21, 14, 00), end: new Date(2023, 6, 21, 16, 45) },
-            { id: 28, group: 8, content: item('🧚‍♀️', 'Apps einfach deployen mit Cloud Foundry', 'Krul, Robert'), start: new Date(2023, 6, 21, 17, 00), end: new Date(2023, 6, 21, 18, 45) },
-            { id: 29, group: 7, content: item('🧞', 'Learning eBPF for better Observability', 'Friedrich, Michael'), start: new Date(2023, 6, 21, 18, 00), end: new Date(2023, 6, 21, 18, 45) }
-        ]);
-
-        // create visualization
-        var container = document.getElementById('visualization');
-        var options = {
-            // option groupOrder can be a property name or a sort function
-            // the sort function must compare two groups and return a value
-            //     > 0 when a > b
-            //     < 0 when a < b
-            //       0 when a == b
-            groupOrder: function (a, b) {
-                return a.value - b.value;
-            },
-            editable: false,
-            groupHeightMode: 'fixed',
-            zoomMax: 64800000,
-            zoomMin: 3600000
-        };
-
-        var timeline = new vis.Timeline(container);
-        timeline.setOptions(options);
-        timeline.setGroups(groups);
-        timeline.setItems(items);
-
-    </script>
 </body>
 
 </html>

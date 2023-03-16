@@ -1,0 +1,52 @@
+#visualization {
+    width: 95%;
+    border: none;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.logo {
+    max-height: 35px;
+}
+
+.q1 {
+    background-color: rgb(207, 207, 207);
+}
+
+.q2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.q3 {
+    background-color: rgb(207, 207, 207);
+}
+
+.q4 {
+    background-color: rgb(255, 255, 255);
+}
+
+.l1 {
+    background-color: rgb(255, 187, 187);
+}
+
+.l2 {
+    background-color: rgb(140, 199, 255);
+}
+
+.l3 {
+    background-color: rgb(169, 255, 148);
+}
+
+.l4 {
+    background-color: rgb(216, 194, 95);
+}
+
+.l5 {
+    background-color: rgb(255, 253, 162);
+}
+
+.vis-group, .vis-label, .vis-group, .vis-item-content, .vis-item {
+    max-height: 9em;
+}

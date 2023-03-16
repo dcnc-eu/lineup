@@ -1,0 +1,19 @@
+{
+    "streams": {
+        "CustStories": {
+            "icon": "🏋"
+        },
+        "Cloud_Container": {
+            "icon": "⛅"
+        },
+        "Microservices": {
+            "icon": "🤹"
+        },
+        "Continuous_Delivery": {
+            "icon": "🦿"
+        },
+        "DevOps": {
+            "icon": "🧘"
+        }
+    }
+}
