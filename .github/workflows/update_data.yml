@@ -1,0 +1,32 @@
+---
+name: Update Data from DOAG API
+on: workflow_dispatch
+jobs:
+    update_data:
+        name: Update Data from DOAG API
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Code
+              uses: actions/checkout@v3
+              with:
+                  fetch-depth: 0
+                  ref: gh-pages
+                  token: ${{ secrets.GH_PUSH_TOKEN }}
+                
+            - name: Fetch and push data
+              run: |
+                git config user.name "$GITHUB_ACTOR"
+                git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
+
+                curl -s https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
+
+                git add data.json
+                set +e
+                git commit -m "Update data.json"
+                if [ $? -eq 0 ]; then
+                  set -e
+                  git push origin gh-pages
+                else
+                  echo "data.json up to date"
+                fi
+
