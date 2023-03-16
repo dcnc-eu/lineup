@@ -22,7 +22,7 @@ jobs:
                 git config user.name "$GITHUB_ACTOR"
                 git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
 
-                curl -s https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
+                curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
 
                 git add data.json
                 set +e
