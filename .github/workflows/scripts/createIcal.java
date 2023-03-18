@@ -131,7 +131,7 @@ public class createIcal {
                 .withProperty(Version.VERSION_2_0)
                 .withProperty(new Description("CloudLand 2023 Lineup - Das Cloud Native(s) Festival"));
 
-        var ical = calendar.toString().replace("\r", "");
+        var ical = calendar.toString();
 
         Files.write(
                 Paths.get("cloudland.ics"),
