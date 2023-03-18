@@ -16,7 +16,19 @@ jobs:
                   fetch-depth: 0
                   ref: gh-pages
                   token: ${{ secrets.GH_PUSH_TOKEN }}
-                
+
+            - uses: actions/cache@v3
+              with:
+                path: /root/.jbang
+                key: ${{ runner.os }}-jbang-${{ hashFiles('*.java') }}
+                restore-keys: |
+                  ${{ runner.os }}-jbang-
+
+            - name: Create iCalendar
+              uses: jbangdev/jbang-action@v0.104.0
+              with:
+                script: ".github/workflows/scripts/createIcal.java"
+
             - name: Fetch and push data
               run: |
                 git config user.name "$GITHUB_ACTOR"
@@ -25,8 +37,9 @@ jobs:
                 curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
 
                 git add data.json
+                git add cloudland.ics
                 set +e
-                git commit -m "Update data.json"
+                git commit -m "Update data.json and cloudland.ics"
                 if [ $? -eq 0 ]; then
                   set -e
                   git push origin gh-pages
