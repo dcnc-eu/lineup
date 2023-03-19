@@ -1,9 +1,10 @@
 BEGIN:VCALENDAR
 PRODID:CloudLand23
 VERSION:2.0
+URL:https://shop.doag.org/events/cloudland/2023/agenda/#eventDay.all
 DESCRIPTION:CloudLand 2023 Lineup - Das Cloud Native(s) Festival
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T170000Z
 DTEND:20230621T174500Z
 SUMMARY:Agile Transformation und Eheversprechen – warum ein „Ja ich will“ nicht ausreicht
@@ -13,7 +14,7 @@ TZID:Europe/Berlin
 CONTACT:Stefan Latuski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T170000Z
 DTEND:20230622T174500Z
 SUMMARY:Hack the world a better place
@@ -23,1367 +24,1367 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
-SUMMARY:CloudLand plays! - Einführung in das Spiel
+SUMMARY:⛅ CloudLand plays! - Einführung in das Spiel
 UID:C-105.2324.3058.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Igor Gutmann (InterFace AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
-SUMMARY:Kubernetes-Deployment Step-by-Step
+SUMMARY:⛅ Kubernetes-Deployment Step-by-Step
 UID:C-105.2326.3075.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Tanja Gallmann (Sopra Steria SE)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T134500Z
-SUMMARY:Cloud Native Security: Cloud? Aber sicher!
+SUMMARY:⛅ Cloud Native Security: Cloud? Aber sicher!
 UID:C-105.2327.3238.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Jan Jürjens (Fraunhofer ISST)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
-SUMMARY:IT-Security Capture The Flag (CTF)
+SUMMARY:🧘 IT-Security Capture The Flag (CTF)
 UID:C-105.2329.3054.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Daniel Klinger (viadee IT-Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
-SUMMARY:MediaMarktSaturn Technology Backstage
+SUMMARY:🤹 MediaMarktSaturn Technology Backstage
 UID:C-105.2336.2957.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Kevin Fritz (MediaMarktSaturn Technology)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:Ein Blick hinter die Kulissen eines Kubernetes-Operators - Code-Reading-Session
+SUMMARY:⛅ Ein Blick hinter die Kulissen eines Kubernetes-Operators - Code-Reading-Session
 UID:C-105.2338.3036.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Jan Weyrich
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T120000Z
 DTEND:20230622T134500Z
-SUMMARY:Diverses Kubernetes-Anwendungs-Konfigurationsmanagement
+SUMMARY:🦿 Diverses Kubernetes-Anwendungs-Konfigurationsmanagement
 UID:C-105.2339.2932.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Florian Heubeck (MediaMarktSaturn Technology)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
-SUMMARY:Carving Microservices Out of the Monolith with Domain Storytelling
+SUMMARY:🤹 Carving Microservices Out of the Monolith with Domain Storytelling
 UID:C-105.2341.2931.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Henning Schwentner (WPS – Workplace Solutions)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
-SUMMARY:Reden wir doch mal mit und über Chat GPT ! Ein aktueller Blick auf KI allgemein.
+SUMMARY:🏋 Reden wir doch mal mit und über Chat GPT ! Ein aktueller Blick auf KI allgemein.
 UID:C-105.2345.3179.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Armin Wildenberg (Data Analytics)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T104500Z
-SUMMARY:Azure Quantum & Microsoft Q#
+SUMMARY:⛅ Azure Quantum & Microsoft Q#
 UID:C-105.2347.2915.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Johnny Hooyberghs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
-SUMMARY:Resilience Patterns mit Istio
+SUMMARY:⛅ Resilience Patterns mit Istio
 UID:C-105.2350.3102.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Sofia Weiler (AOE GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
-SUMMARY:Dev(Ops) Productivity starts at $HOME
+SUMMARY:🧘 Dev(Ops) Productivity starts at $HOME
 UID:C-105.2352.3193.0
 LOCATION:Blue Lounge
 TZID:Europe/Berlin
 CONTACT:Gerd Aschemann
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
-SUMMARY:Pulumi Cloud Infrastructure Challenge (Vortrag und Challenge)
+SUMMARY:🦿 Pulumi Cloud Infrastructure Challenge (Vortrag und Challenge)
 UID:C-105.2355.3034.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Benjamin Klatt (viadee Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T144500Z
-SUMMARY:Github Copilot vs. Amazon CodeWhisperer for Java Developers
+SUMMARY:⛅ Github Copilot vs. Amazon CodeWhisperer for Java Developers
 UID:C-105.2359.2924.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Vadym Kazulkin (ip.labs GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
-SUMMARY:Technology Radar
+SUMMARY:⛅ Technology Radar
 UID:C-105.2361.3292.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Michel Hartmann (FLYERALARM BitLabs GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
-SUMMARY:Security Lab: OIDC in der Praxis
+SUMMARY:🤹 Security Lab: OIDC in der Praxis
 UID:C-105.2367.3045.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Christian Fritz (QAware)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:GraalVM Native Images in K8s
+SUMMARY:⛅ GraalVM Native Images in K8s
 UID:C-105.2369.2749.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Noah Neukam
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T164500Z
-SUMMARY:Serverless Survical Guide
+SUMMARY:⛅ Serverless Survical Guide
 UID:C-105.2371.2745.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Lars Röwekamp (open knowledge GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T200000Z
-SUMMARY:Musikalische Experimente mit SonicPi in der Cloud
+SUMMARY:🤹 Musikalische Experimente mit SonicPi in der Cloud
 UID:C-105.2376.3221.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Andreas Badelt (DOAG CNC)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
-SUMMARY:Rock\, Paper\, Scissors Cloud Competition - Go vs. Java
+SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Go vs. Java
 UID:C-105.2378.3082.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Jan Stamer (PPI AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
-SUMMARY:Rock\, Paper\, Scissors Cloud Competition - Diskussion (FishBowl)
+SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Diskussion (FishBowl)
 UID:C-105.2380.3231.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Lena Grimm (PPI AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
-SUMMARY:Kubernetes von 0 auf 100 in einem Tag
+SUMMARY:⛅ Kubernetes von 0 auf 100 in einem Tag
 UID:C-105.2381.2989.0
 LOCATION:Red Lounge
 TZID:Europe/Berlin
 CONTACT:Sascha Dittmann (Google Germany GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
-SUMMARY:Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native
+SUMMARY:⛅ Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native
 UID:C-105.2386.2743.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Renke Grunwald (OpenKnowledge GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
-SUMMARY:Kubernetes-Cluster auf Raspberry Pis aufsetzen
+SUMMARY:⛅ Kubernetes-Cluster auf Raspberry Pis aufsetzen
 UID:C-105.2391.3170.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Max Harmathy (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T124500Z
-SUMMARY:Create your Pipeline - Ein GitOps Workshop mit Kubernetes und Flux
+SUMMARY:🦿 Create your Pipeline - Ein GitOps Workshop mit Kubernetes und Flux
 UID:C-105.2398.2946.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Thorsten Wussow (SLIX Gesellschaft für Computersysteme mbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
-SUMMARY:Well Architected? Architektur-Ratgeber in der Cloud.
+SUMMARY:🧘 Well Architected? Architektur-Ratgeber in der Cloud.
 UID:C-105.2403.3076.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Alexander Kaserbacher (embarc Software Consulting GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
-SUMMARY:IT-Security Capture The Flag (CTF)
+SUMMARY:🧘 IT-Security Capture The Flag (CTF)
 UID:C-105.2407.3054.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Daniel Klinger (viadee IT-Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
-SUMMARY:IMC Kubernetes - Day 2 Operations / Part 1
+SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 1
 UID:C-105.2409.3013.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Matthias Fuchs (Quality Technology Solutions)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
-SUMMARY:IMC Kubernetes - Day 2 Operations / Part 2
+SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 2
 UID:C-105.2410.3009.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Heiko Stein (etomer GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
-SUMMARY:IMC Kubernetes - Day 2 Operations / Part 3
+SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 3
 UID:C-105.2412.3011.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Borys Neselovskyi (DOAG IMC Comminuty / EDB)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
-SUMMARY:GitOps in der Anwendungsentwicklung: Die Missing Links
+SUMMARY:🦿 GitOps in der Anwendungsentwicklung: Die Missing Links
 UID:C-105.2414.3173.0
 LOCATION:Green Lounge
 TZID:Europe/Berlin
 CONTACT:Oliver Weise (Consol GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
-SUMMARY:Von der Domäne zur Implementierung mit Event Modeling
+SUMMARY:🤹 Von der Domäne zur Implementierung mit Event Modeling
 UID:C-105.2417.2895.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Frank Steimle (Digital Frontiers GmbH & Co KG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
-SUMMARY:aufschlag.mörser.tulpe - Geodaten und ihre Verwendung
+SUMMARY:🏋 aufschlag.mörser.tulpe - Geodaten und ihre Verwendung
 UID:C-105.2421.3181.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Armin Wildenberg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
-SUMMARY:Apps einfach deployen mit Cloud Foundry
+SUMMARY:⛅ Apps einfach deployen mit Cloud Foundry
 UID:C-105.2423.2942.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Robert Krul (SINTEC Informatik GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
-SUMMARY:Retro chic mit Pixel-art
+SUMMARY:🤹 Retro chic mit Pixel-art
 UID:C-105.2429.3059.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Nina Körner (InterFace AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T134500Z
-SUMMARY:Weniger Angst vorm Vendor Lock-In mit Hexagonaler Architektur
+SUMMARY:🤹 Weniger Angst vorm Vendor Lock-In mit Hexagonaler Architektur
 UID:C-105.2431.3258.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Ferdinand Ade
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T150000Z
 DTEND:20230622T164500Z
-SUMMARY:Distributed Tracing in Practice Workshop
+SUMMARY:🧘 Distributed Tracing in Practice Workshop
 UID:C-105.2435.3270.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Haddas Bronfman (Cisco)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
-SUMMARY:Stille Post mit AWS Lambdas
+SUMMARY:⛅ Stille Post mit AWS Lambdas
 UID:C-105.2438.3056.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Max Tharr (Mayflower / WUEtech-Meetup-Community)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
-SUMMARY:Guerilla Organisation Enablement - Developer-driven Transformation
+SUMMARY:🧘 Guerilla Organisation Enablement - Developer-driven Transformation
 UID:C-105.2440.3227.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:John Fletcher (codecentric AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
-SUMMARY:Mein k8s DevOps Cluster in der Tasche
+SUMMARY:⛅ Mein k8s DevOps Cluster in der Tasche
 UID:C-105.2441.3246.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Muthiah Chidambaram
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
-SUMMARY:AWS GameDay
+SUMMARY:🦿 AWS GameDay
 UID:C-105.2443.3243.0
 LOCATION:Yellow Lounge
 TZID:Europe/Berlin
 CONTACT:Paul Enno Schulte (Amazon Web Services (AWS))
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
-SUMMARY:Keine Panik - die Cloud tut nicht weh
+SUMMARY:🧘 Keine Panik - die Cloud tut nicht weh
 UID:C-105.2479.3083.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Ralph Löwe (BettercallPaul GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
-SUMMARY:Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices
+SUMMARY:🤹 Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices
 UID:C-105.2480.3012.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Martin Kurz (ConSol Consulting & Solutions Software GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
-SUMMARY:Living on the Edge - Ein Rechenzentrum im Reisekoffer
+SUMMARY:⛅ Living on the Edge - Ein Rechenzentrum im Reisekoffer
 UID:C-105.2481.3030.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Mario Fahlandt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
-SUMMARY:Tackling cross-cutting concerns within your architecture
+SUMMARY:🤹 Tackling cross-cutting concerns within your architecture
 UID:C-105.2482.2999.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Daniel Kocot (codecentric AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
-SUMMARY:Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains
+SUMMARY:🤹 Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains
 UID:C-105.2483.3134.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Krischan Dickel (sipgate GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
-SUMMARY:Entertaining the Masses with AWS AppSync and Serverless Technologies
+SUMMARY:⛅ Entertaining the Masses with AWS AppSync and Serverless Technologies
 UID:C-105.2484.2919.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Joachim Aumann
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
-SUMMARY:Pimp my Cluster | Kubernetes Operators mit dem JOSDK
+SUMMARY:⛅ Pimp my Cluster | Kubernetes Operators mit dem JOSDK
 UID:C-105.2485.2894.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Matthias Alt (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
-SUMMARY:Die nächsten 100 Microservices
+SUMMARY:🤹 Die nächsten 100 Microservices
 UID:C-105.2486.3239.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Sascha Böhme (QAware GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
-SUMMARY:Anwendung\, Laufzeitumgebung\, Low-Code-Plattform? - Die gleiche Frage\, wieder mal!
+SUMMARY:🤹 Anwendung\, Laufzeitumgebung\, Low-Code-Plattform? - Die gleiche Frage\, wieder mal!
 UID:C-105.2491.3155.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Frank Schuetz (Geek in Business GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
-SUMMARY:Plug and pray
+SUMMARY:🧘 Plug and pray
 UID:C-105.2492.3096.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Oliver Szymanski (Bundesagentur für Arbeit)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:K8s-native Daten-Pipelines mit Quarkus und Argo et al.
+SUMMARY:🦿 K8s-native Daten-Pipelines mit Quarkus und Argo et al.
 UID:C-105.2493.3275.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Mario-Leander Reimer (QAware GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
-SUMMARY:502 Bad Gateway: Warum Zero Downtime mehr braucht als eine Config
+SUMMARY:⛅ 502 Bad Gateway: Warum Zero Downtime mehr braucht als eine Config
 UID:C-105.2494.3219.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Nikolai Neugebauer (Digital Frontiers GmbH & Co. KG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
-SUMMARY:Modernes und flexibles Identity- und Access-Management mit Keycloak
+SUMMARY:⛅ Modernes und flexibles Identity- und Access-Management mit Keycloak
 UID:C-105.2495.3178.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Dominik Schlosser
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
-SUMMARY:Container Vulnerability Management in Kubernetes
+SUMMARY:⛅ Container Vulnerability Management in Kubernetes
 UID:C-105.2496.2961.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Kevin Schu (AOE GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
-SUMMARY:Kubernetes Security - Supply-Chain-Security und Zero-Trust von Containern
+SUMMARY:⛅ Kubernetes Security - Supply-Chain-Security und Zero-Trust von Containern
 UID:C-105.2497.3210.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Benjamin Bajorat (Mayflower GmbH / WueTech)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
-SUMMARY:Distributed System State Management: When Transactions are Long and SLA is High
+SUMMARY:🤹 Distributed System State Management: When Transactions are Long and SLA is High
 UID:C-105.2498.2908.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Dr. Ilya Kaznacheev (InfraPulse)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
-SUMMARY:Wer sind wir?
+SUMMARY:🧘 Wer sind wir?
 UID:C-105.2500.3189.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Andreas Schrogl (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
-SUMMARY:DATEV im Wandel zur Cloud-Native-Company
+SUMMARY:🏋 DATEV im Wandel zur Cloud-Native-Company
 UID:C-105.2502.3176.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Michael Schmidt (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
-SUMMARY:Challenge Startup: Entwurf belastbarer Cloud-native-Architekturen
+SUMMARY:🏋 Challenge Startup: Entwurf belastbarer Cloud-native-Architekturen
 UID:C-105.2503.3235.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Niklas Mengele (Crewting GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
-SUMMARY:Neue Programmiersprache „Ubiquitous“ - Ein DDD Projekt-Erfahrungsbericht
+SUMMARY:🤹 Neue Programmiersprache „Ubiquitous“ - Ein DDD Projekt-Erfahrungsbericht
 UID:C-105.2504.2934.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Azmir Abdi (sidion GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T110000Z
 DTEND:20230623T114500Z
-SUMMARY:Strategien\, Taktiken und Muster der Legacy-Ablösung
+SUMMARY:🧘 Strategien\, Taktiken und Muster der Legacy-Ablösung
 UID:C-105.2505.2937.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Tobias Voß (viadee Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
-SUMMARY:Von der Leichtigkeit des Seins - Theorie und Wahrheit in der Cloud
+SUMMARY:🏋 Von der Leichtigkeit des Seins - Theorie und Wahrheit in der Cloud
 UID:C-105.2507.3135.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Dr. Annegret Junker
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
-SUMMARY:Patterns of Sustainability - Going Green in IT
+SUMMARY:⛅ Patterns of Sustainability - Going Green in IT
 UID:C-105.2508.2953.0
 LOCATION:Quantum 1
 TZID:Europe/Berlin
 CONTACT:Uwe Friedrichsen (codecentric AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
-SUMMARY:Cloud Native Customer Stories: Lerncoach - Kür oder Pflicht?
+SUMMARY:🏋 Cloud Native Customer Stories: Lerncoach - Kür oder Pflicht?
 UID:C-105.2541.3126.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Jürgen Latteyer (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
-SUMMARY:Enterprise-level Kubernetes Security mit Open Source Tools - geht das?
+SUMMARY:⛅ Enterprise-level Kubernetes Security mit Open Source Tools - geht das?
 UID:C-105.2542.3237.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Markus Zimmermann
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
-SUMMARY:Die Top Ten der Cloud Security Fails und wie man sie vermeidet
+SUMMARY:⛅ Die Top Ten der Cloud Security Fails und wie man sie vermeidet
 UID:C-105.2543.3206.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Kai Schubert (usd AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
-SUMMARY:Multi-Cloud Kubernetes in action with Cassandra
+SUMMARY:⛅ Multi-Cloud Kubernetes in action with Cassandra
 UID:C-105.2544.3025.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Raghavan Srinivas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
-SUMMARY:How to Build a Docker Engine-like Custom Container Without any Software
+SUMMARY:⛅ How to Build a Docker Engine-like Custom Container Without any Software
 UID:C-105.2545.3148.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Gursimar Singh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
-SUMMARY:Cloud Native CQRS
+SUMMARY:🤹 Cloud Native CQRS
 UID:C-105.2546.2896.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Frank Steimle (Digital Frontiers GmbH & Co KG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
-SUMMARY:Idempotenz für Arme. Oder: Was machen wir nach 'Lift und Shift'?
+SUMMARY:🤹 Idempotenz für Arme. Oder: Was machen wir nach 'Lift und Shift'?
 UID:C-105.2547.3128.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Frank Werres (msg life central europe gmbh)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
-SUMMARY:Modern Linux CLI Tools
+SUMMARY:🦿 Modern Linux CLI Tools
 UID:C-105.2548.2933.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Dr. Patrick Drechsler
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
-SUMMARY:Modernisierung des Identity- und Access-Managements in einer großen Behörde
+SUMMARY:🤹 Modernisierung des Identity- und Access-Managements in einer großen Behörde
 UID:C-105.2553.3220.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Ulrich Gerkmann-Bartels (enpit GmbH & Co.KG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
-SUMMARY:How to Understand Cloud Environments (fast)
+SUMMARY:🏋 How to Understand Cloud Environments (fast)
 UID:C-105.2554.2948.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:René Wagner (IT-Systemhaus der Bundesagentur für Arbeit)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:Mit der Zeit gehen – flexible Architekturen
+SUMMARY:🤹 Mit der Zeit gehen – flexible Architekturen
 UID:C-105.2555.3280.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Falk Sippach (embarc Software Consulting GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
-SUMMARY:Präsentation ohne Aufwand: Die Magie von GPT und anderen generativen KI-Modellen
+SUMMARY:🦿 Präsentation ohne Aufwand: Die Magie von GPT und anderen generativen KI-Modellen
 UID:C-105.2556.3194.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Martin Förtsch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
-SUMMARY:Resilient Software Design - The Past\, the Present and the Future
+SUMMARY:🤹 Resilient Software Design - The Past\, the Present and the Future
 UID:C-105.2557.2954.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Uwe Friedrichsen (codecentric AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
-SUMMARY:Geo-Analytics - Räumliche Analyse digitaler Zwillinge in der Cloud
+SUMMARY:🤹 Geo-Analytics - Räumliche Analyse digitaler Zwillinge in der Cloud
 UID:C-105.2558.3101.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Sven Bosinger (DB-Systel GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
-SUMMARY:A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr
+SUMMARY:⛅ A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr
 UID:C-105.2559.3271.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Mario-Leander Reimer (QAware GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
-SUMMARY:Refactoring - Spielerisch den Wert von Code-Qualität erleben!
+SUMMARY:🧘 Refactoring - Spielerisch den Wert von Code-Qualität erleben!
 UID:C-105.2560.2860.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Christoph Welcz (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
-SUMMARY:Jeopardy in den IoT-Wolken
+SUMMARY:⛅ Jeopardy in den IoT-Wolken
 UID:C-105.2562.3052.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Markus Pepping (viadee Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T190000Z
 DTEND:20230622T194500Z
-SUMMARY:The Original CloudLand Jeopardy
+SUMMARY:⛅ The Original CloudLand Jeopardy
 UID:C-105.2563.3086.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Heiko Krämer (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
-SUMMARY:Testen einer Cloud – wie geht man vor?
+SUMMARY:🏋 Testen einer Cloud – wie geht man vor?
 UID:C-105.2564.2952.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Nathalie Kuczewski (IT-Systemhaus - Bundesagentur für Arbeit)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
-SUMMARY:Webhooks in CIs - Schnee von gestern - Pipelines ereignisbasiert triggern
+SUMMARY:🦿 Webhooks in CIs - Schnee von gestern - Pipelines ereignisbasiert triggern
 UID:C-105.2565.3070.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Tihomir Yordanov (JQuad OHG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
-SUMMARY:Zero Downtime Migration into Google Cloud Platform Using Oracle GoldenGate
+SUMMARY:🏋 Zero Downtime Migration into Google Cloud Platform Using Oracle GoldenGate
 UID:C-105.2566.3137.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Harald Maier (MediaMarktSaturn Technology)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
-SUMMARY:Automatisiert kontinuierliche Qualitätssicherung in komplexen PaaS-Systemen
+SUMMARY:🦿 Automatisiert kontinuierliche Qualitätssicherung in komplexen PaaS-Systemen
 UID:C-105.2568.3022.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Paul Schmidt (infologistix GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
-SUMMARY:Nachhaltige Software-Architektur im Cloudzeitalter
+SUMMARY:🤹 Nachhaltige Software-Architektur im Cloudzeitalter
 UID:C-105.2569.2748.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Uwe Neukam (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
-SUMMARY:Warum eure Microservice-Architektur nicht funktioniert
+SUMMARY:🧘 Warum eure Microservice-Architektur nicht funktioniert
 UID:C-105.2570.3211.0
 LOCATION:Quantum 2
 TZID:Europe/Berlin
 CONTACT:Mick Hohmann (Mayflower GmbH / WUEtech-Meetup-Community)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
-SUMMARY:DevOps in Enterprise-Umgebungen -  Kultur\, Organisation und Technologie
+SUMMARY:🧘 DevOps in Enterprise-Umgebungen -  Kultur\, Organisation und Technologie
 UID:C-105.2577.2918.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:David Koenig (MediaMarktSaturn)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
-SUMMARY:Machine Learning in der Cloud - die MLOps Plattform Kubeflow
+SUMMARY:🧘 Machine Learning in der Cloud - die MLOps Plattform Kubeflow
 UID:C-105.2578.2892.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Verena Barth
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
-SUMMARY:Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.
+SUMMARY:🧘 Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.
 UID:C-105.2579.3269.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Mario-Leander Reimer (QAware GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
-SUMMARY:Revolutionize Java DB App Dev with Reactive Streams and Java Virtual Threads
+SUMMARY:🤹 Revolutionize Java DB App Dev with Reactive Streams and Java Virtual Threads
 UID:C-105.2580.2983.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Juarez Barbosa Junior
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
-SUMMARY:Clean Architecture und Microservices
+SUMMARY:🤹 Clean Architecture und Microservices
 UID:C-105.2581.2945.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Roland König
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
-SUMMARY:Kubernetes Operator in Rust
+SUMMARY:⛅ Kubernetes Operator in Rust
 UID:C-105.2582.2951.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Enno Boland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
-SUMMARY:A High-Speed Data Ingestion Solution in Java Using MQTT\, AMQP\, and STOMP
+SUMMARY:🤹 A High-Speed Data Ingestion Solution in Java Using MQTT\, AMQP\, and STOMP
 UID:C-105.2583.2979.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Juarez Barbosa Junior (ORACLE)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
-SUMMARY:Moderne Service-zu-Service-Kommunikation mit gRPC
+SUMMARY:🤹 Moderne Service-zu-Service-Kommunikation mit gRPC
 UID:C-105.2584.2944.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Roland König
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
-SUMMARY:Make Developers Fly: Principles for Platform Engineering
+SUMMARY:🧘 Make Developers Fly: Principles for Platform Engineering
 UID:C-105.2589.3166.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Robert Hoffmann (Amazon Web Services)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
-SUMMARY:Aufbau eines Digital Service Catalog mit Backstage.io
+SUMMARY:🏋 Aufbau eines Digital Service Catalog mit Backstage.io
 UID:C-105.2590.3159.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Freelance))
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:Datenschutz in der Cloud - Löst Confidential Computing das Problem?
+SUMMARY:⛅ Datenschutz in der Cloud - Löst Confidential Computing das Problem?
 UID:C-105.2591.3051.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Florian Kretschmer (Cloud Native Computing Rheinland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
-SUMMARY:Zero Trust: Wie die Cloud sicherer als der eigene Rechner wurde
+SUMMARY:🧘 Zero Trust: Wie die Cloud sicherer als der eigene Rechner wurde
 UID:C-105.2592.3031.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Johann-Peter Hartmann
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
-SUMMARY:Sovereign Cloud Stack: Converting the Vision into Action
+SUMMARY:⛅ Sovereign Cloud Stack: Converting the Vision into Action
 UID:C-105.2593.3262.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Kurt Garloff (Open Source Business Alliance e.V.)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
-SUMMARY:Die Cloud im Entwickleralltag der Bundesbehörde BAMF
+SUMMARY:🏋 Die Cloud im Entwickleralltag der Bundesbehörde BAMF
 UID:C-105.2594.3212.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Martin Möbius (Atos Information Technology GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
-SUMMARY:Unsere \"Karte des Herumtreibers\": Dokumentation und Monitoring von Microservices
+SUMMARY:🧘 Unsere \"Karte des Herumtreibers\": Dokumentation und Monitoring von Microservices
 UID:C-105.2595.2964.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Michaela Kreipl (EnBW)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
-SUMMARY:Evolution zu einer On-Premises Cloud aus Bausteinen (in einer Behörde)
+SUMMARY:🏋 Evolution zu einer On-Premises Cloud aus Bausteinen (in einer Behörde)
 UID:C-105.2596.3088.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Stephan Kaps (Java User Group Bonn)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
-SUMMARY:What you always wanted to know about SRE * but were afraid to ask
+SUMMARY:🧘 What you always wanted to know about SRE * but were afraid to ask
 UID:C-105.2598.3061.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Bastian Spanneberg (Celonis)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
-SUMMARY:Observability for Efficient DevSecOps Pipelines
+SUMMARY:🦿 Observability for Efficient DevSecOps Pipelines
 UID:C-105.2600.3253.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Michael Friedrich (GitLab)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T114500Z
-SUMMARY:Von Null auf Graph: Eine Reise zu Graphdatenbanken und Graph-basierten Analysen
+SUMMARY:⛅ Von Null auf Graph: Eine Reise zu Graphdatenbanken und Graph-basierten Analysen
 UID:C-105.2602.2962.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Karin Patenge (Oracle Global Services Germany GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
-SUMMARY:Mit Graph Algorithmen in der Cloud Ressourcennutzung optimieren
+SUMMARY:⛅ Mit Graph Algorithmen in der Cloud Ressourcennutzung optimieren
 UID:C-105.2604.2965.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Korbi Schmid (Oracle Corporation)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
-SUMMARY:Building Reliable Serverless Applications with AWS CDK and Testing
+SUMMARY:🦿 Building Reliable Serverless Applications with AWS CDK and Testing
 UID:C-105.2605.3064.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Raphael Manke (codecentric AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
-SUMMARY:Bulletproof Cloud Deployments with OIDC
+SUMMARY:🦿 Bulletproof Cloud Deployments with OIDC
 UID:C-105.2606.2938.0
 LOCATION:Quantum 3
 TZID:Europe/Berlin
 CONTACT:Nico Meisenzahl (white duck)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
-SUMMARY:Robuste Datenpipeline mit Open-Source-Software erstellen
+SUMMARY:⛅ Robuste Datenpipeline mit Open-Source-Software erstellen
 UID:C-105.2608.2987.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Sascha Dittmann (Google Germany GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T100000Z
 DTEND:20230621T114500Z
-SUMMARY:Distributed SQL on containers: YugabyteDB
+SUMMARY:⛅ Distributed SQL on containers: YugabyteDB
 UID:C-105.2609.3263.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Franck Pachot (Yugabyte)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
-SUMMARY:Ansible Ops mit Gitlab
+SUMMARY:🦿 Ansible Ops mit Gitlab
 UID:C-105.2611.2772.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Christian Lorenz (DATEV eG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
-SUMMARY:Wie baue ich eine skalierbare\, ereignisgetriebene Architektur mit AWS?
+SUMMARY:🤹 Wie baue ich eine skalierbare\, ereignisgetriebene Architektur mit AWS?
 UID:C-105.2612.2994.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Ben Freiberg (Amazon Web Services (AWS))
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
-SUMMARY:Meine Cloud ist kaputt - Troubleshooting in der Cloud
+SUMMARY:🧘 Meine Cloud ist kaputt - Troubleshooting in der Cloud
 UID:C-105.2613.3085.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Ralph Löwe (BettercallPaul GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
-SUMMARY:Methods and Approaches for Creating Distributed Systems
+SUMMARY:🤹 Methods and Approaches for Creating Distributed Systems
 UID:C-105.2614.3098.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Markus Wagner
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
-SUMMARY:Advanced Observability & Security for your Kubernetes with a modern Service Mesh
+SUMMARY:⛅ Advanced Observability & Security for your Kubernetes with a modern Service Mesh
 UID:C-105.2615.3188.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Fabian Hardt (OPITZ CONSULTING Deutschland GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
-SUMMARY:Kong 101 – Einstieg in die Welt der API Gateways
+SUMMARY:⛅ Kong 101 – Einstieg in die Welt der API Gateways
 UID:C-105.2620.3223.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Sven Bernhardt (OPITZ CONSULTING Deutschland GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
-SUMMARY:How to Send a Goal Notification in Real-time to Hundred Thousand Bundesliga Fans?
+SUMMARY:🏋 How to Send a Goal Notification in Real-time to Hundred Thousand Bundesliga Fans?
 UID:C-105.2622.2731.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Christian Bonzelet (DFL Digital Sports)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
-SUMMARY:Clean Code für DevOps und SysAdmins
+SUMMARY:🧘 Clean Code für DevOps und SysAdmins
 UID:C-105.2623.2928.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Janno Tjarks (ENERCON IT Service GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
-SUMMARY:Quarkus on Azure
+SUMMARY:⛅ Quarkus on Azure
 UID:C-105.2624.3087.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Ed Burns (Microsoft)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
-SUMMARY:Optimization of CI/CD Pipelines
+SUMMARY:🦿 Optimization of CI/CD Pipelines
 UID:C-105.2625.3018.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Dr. Marius Shekow (SprintEins GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
-SUMMARY:Scrum und OPS / Scrum vs. OPS - Eine Diskussionsrunde
+SUMMARY:🧘 Scrum und OPS / Scrum vs. OPS - Eine Diskussionsrunde
 UID:C-105.2626.3123.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Nadine Süß (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
-SUMMARY:How to Prevent Your Kubernetes Cluster From Being Hacked
+SUMMARY:⛅ How to Prevent Your Kubernetes Cluster From Being Hacked
 UID:C-105.2627.2940.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Nico Meisenzahl (white duck)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
-SUMMARY:Mein Code ist meine Dokumentation... nur ist der nicht immer Zielgruppengerecht
+SUMMARY:🦿 Mein Code ist meine Dokumentation... nur ist der nicht immer Zielgruppengerecht
 UID:C-105.2629.2909.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Michael Twelkemeier (viadee Unternehmensberatung AG)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
-SUMMARY:Kubernetes Operator Hands-on
+SUMMARY:🦿 Kubernetes Operator Hands-on
 UID:C-105.2632.3089.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Axel Krämer (Heureso GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T144500Z
-SUMMARY:Build ETL/ELT Pipelines Locally\, then Deploy and Execute at Scale on Kubernetes
+SUMMARY:⛅ Build ETL/ELT Pipelines Locally\, then Deploy and Execute at Scale on Kubernetes
 UID:C-105.2634.3062.0
 LOCATION:Quantum 4
 TZID:Europe/Berlin
 CONTACT:Dr. Jan Kneissler (E. Breuninger GmbH & Co.)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
-SUMMARY:From Pets to Cattle in your Smarthome!
+SUMMARY:🧘 From Pets to Cattle in your Smarthome!
 UID:C-105.2640.3057.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Dominic Giebert
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T120000Z
 DTEND:20230621T144500Z
-SUMMARY:Microservices mit Golang in der Nussschale
+SUMMARY:🤹 Microservices mit Golang in der Nussschale
 UID:C-105.2643.3161.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Feeelance))
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
-SUMMARY:Learning eBPF for better Observability
+SUMMARY:⛅ Learning eBPF for better Observability
 UID:C-105.2647.3255.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Michael Friedrich (GitLab)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
-SUMMARY:From Zero to Hero – Best Practices aus cloud-native GitOps-Projekten
+SUMMARY:🏋 From Zero to Hero – Best Practices aus cloud-native GitOps-Projekten
 UID:C-105.2652.3099.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Victor Getz (iits-consulting)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T100000Z
 DTEND:20230622T124500Z
-SUMMARY:Policy Driven Microservices mit Open Policy Agent
+SUMMARY:🦿 Policy Driven Microservices mit Open Policy Agent
 UID:C-105.2653.3071.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Andreas Zitzelsberger (QAware GmbH)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T130000Z
 DTEND:20230622T144500Z
-SUMMARY:Mehr Sicherheit in Kubernetes - mit Kyverno
+SUMMARY:⛅ Mehr Sicherheit in Kubernetes - mit Kyverno
 UID:C-105.2656.3033.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Mario Fahlandt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
-SUMMARY:Let's Read Code Together
+SUMMARY:⛅ Let's Read Code Together
 UID:C-105.2659.3068.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Jan Klippel (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
-SUMMARY:OpenTelemetry für Fortgeschrittene
+SUMMARY:🤹 OpenTelemetry für Fortgeschrittene
 UID:C-105.2663.2971.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Severin Neumann (Cisco/AppDynamics || OpenTelemetry Community)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T100000Z
 DTEND:20230623T134500Z
-SUMMARY:From Zero to Hero – GitOps Workshop mit K8s/Terraform/ArgoCD auf Open Telekom Cloud
+SUMMARY:⛅ From Zero to Hero – GitOps Workshop mit K8s/Terraform/ArgoCD auf Open Telekom Cloud
 UID:C-105.2665.3100.0
 LOCATION:Orange Lounge
 TZID:Europe/Berlin
 CONTACT:Victor Getz (iits-consulting\, OpenTelekomCloud)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:Siegerehrung JuiceShop CtF
@@ -1393,7 +1394,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T083000Z
 DTEND:20230620T100000Z
 SUMMARY:Marktplatz
@@ -1403,7 +1404,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp I
@@ -1413,7 +1414,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp III
@@ -1423,7 +1424,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp II
@@ -1433,7 +1434,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T180000Z
 DTEND:20230620T190000Z
 SUMMARY:Pizza & Beer
@@ -1443,7 +1444,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T190000Z
 DTEND:20230621T210000Z
 SUMMARY:Summernight
@@ -1453,7 +1454,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T083000Z
 DTEND:20230621T090000Z
 SUMMARY:Begrüßung
@@ -1463,97 +1464,97 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T170000Z
-SUMMARY:Innovation Hacking Showcases im Expo-Bereich
+SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
 UID:C-105.2684.3195.0
 LOCATION:Quantum Saal
 TZID:Europe/Berlin
 CONTACT:Martin Förtsch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T170000Z
-SUMMARY:Innovation Hacking Showcases im Expo-Bereich
+SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
 UID:C-105.2685.3195.0
 LOCATION:
 TZID:Europe/Berlin
 CONTACT:Martin Förtsch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T140000Z
-SUMMARY:Innovation Hacking Showcases im Expo-Bereich
+SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
 UID:C-105.2686.3195.0
 LOCATION:Quantum Saal
 TZID:Europe/Berlin
 CONTACT:Martin Förtsch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T090000Z
 DTEND:20230621T210000Z
-SUMMARY:Pixelflut
+SUMMARY:🧘 Pixelflut
 UID:C-105.2689.3067.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:Sandra Fischer (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
-SUMMARY:Pixelflut
+SUMMARY:🧘 Pixelflut
 UID:C-105.2690.3067.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:Sandra Fischer (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T070000Z
 DTEND:20230623T150000Z
-SUMMARY:Pixelflut
+SUMMARY:🧘 Pixelflut
 UID:C-105.2691.3067.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:Sandra Fischer (JUG Oberland)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230621T100000Z
 DTEND:20230621T210000Z
-SUMMARY:CloudLand plays!
+SUMMARY:⛅ CloudLand plays!
 UID:C-105.2693.3298.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T090000Z
 DTEND:20230623T130000Z
-SUMMARY:CloudLand plays!
+SUMMARY:⛅ CloudLand plays!
 UID:C-105.2694.3298.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
-SUMMARY:CloudLand plays!
+SUMMARY:⛅ CloudLand plays!
 UID:C-105.2695.3298.0
 LOCATION:Cloud Universe
 TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp IV
@@ -1563,7 +1564,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp V
@@ -1573,7 +1574,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VI
@@ -1583,7 +1584,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VII
@@ -1593,7 +1594,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VIII
@@ -1603,7 +1604,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp IX
@@ -1613,7 +1614,7 @@ TZID:Europe/Berlin
 CONTACT:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230319T122731Z
+DTSTAMP:20230319T132821Z
 DTSTART:20230623T070000Z
 DTEND:20230623T074500Z
 SUMMARY:Cloud Native(s) Roundtable(s) & Coffee

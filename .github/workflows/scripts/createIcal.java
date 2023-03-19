@@ -1,7 +1,4 @@
 import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -29,6 +26,7 @@ import net.fortuna.ical4j.model.property.Description;
 import net.fortuna.ical4j.model.property.Location;
 import net.fortuna.ical4j.model.property.TzId;
 import net.fortuna.ical4j.model.property.Uid;
+import net.fortuna.ical4j.model.property.Url;
 import net.fortuna.ical4j.model.property.Version;
 import net.fortuna.ical4j.model.DateTime;
 
@@ -38,12 +36,11 @@ import static java.time.temporal.ChronoField.*;
 //DEPS com.google.code.gson:gson:2.10.1
 //DEPS org.mnode.ical4j:ical4j:3.2.10
 //JAVAC_OPTIONS -parameters
-
 public class createIcal {
 
     static final String BERLIN = "Europe/Berlin";
-    static final String eventUrl = "https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105";
-    static final Gson gson = new GsonBuilder().create();
+    static final String AGENDA_URL = "https://shop.doag.org/events/cloudland/2023/agenda/#eventDay.all";
+    static final Gson GSON = new GsonBuilder().create();
 
     /**
      * DateTime format used in iCAL, with offset mandatory for valid UTC conversion
@@ -63,20 +60,12 @@ public class createIcal {
             .toFormatter();
 
     public static void main(String... args) throws Exception {
-        var request = HttpRequest.newBuilder(URI.create(eventUrl))
-                .setHeader("accept-type", "application/json")
-                .GET()
-                .build();
-
-        var http = HttpClient.newHttpClient();
-        var response = http.send(request, HttpResponse.BodyHandlers.ofString());
-        if (response.statusCode() != 200) {
-            throw new Exception("Event download failed: " + response.statusCode() + ": " + response.body());
-        }
-
-        var event = gson.fromJson(response.body(), Map.class);
+        var event = GSON.fromJson(Files.readString(Paths.get("data.json")), Map.class);
         var agenda = (Map<String, Map<String, Object>>) event.get("agenda");
         var rooms = (Map<String, Map<String, Object>>) event.get("rooms");
+
+        var mixin = GSON.fromJson(Files.readString(Paths.get("mixin.json")), Map.class);
+        var streams = (Map<String, Map<String, Object>>) mixin.get("streams");
 
         Function<Object, String> getRoomById = roomId -> {
             if (roomId instanceof String && !roomId.toString().isBlank()) {
@@ -102,6 +91,16 @@ public class createIcal {
             return "";
         };
 
+        Function<Object, String> getStreamIcon = streamId -> {
+            if (streamId != null && !orEmpty(streamId).isBlank()) {
+                Map<String, Object> map = (Map<String, Object>) streams.get(streamId);
+                if (map != null) {
+                    return orEmpty(map.get("icon")) + " ";
+                }
+            }
+            return "";
+        };
+
         var components = agenda.entrySet().stream()
                 .filter(i -> {
                     var title = i.getValue().get("title");
@@ -114,7 +113,9 @@ public class createIcal {
                         var end = ((Number) value.get("end")).longValue();
                         var id = orEmpty(value.get("eventSlotId"));
 
-                        var component = new VEvent(epochSecondsToDateTime(start), epochSecondsToDateTime(end), title);
+                        var summary = getStreamIcon.apply(value.get("mainFocus")) + title;
+
+                        var component = new VEvent(epochSecondsToDateTime(start), epochSecondsToDateTime(end), summary);
                         component.withProperty(new Uid("C-105." + item.getKey() + "." + id));
                         component.withProperty(new Location(getRoomById.apply(value.get("roomId"))));
                         component.withProperty(new TzId(BERLIN));
@@ -129,6 +130,7 @@ public class createIcal {
         var calendar = new Calendar(components);
         calendar.withProdId("CloudLand23")
                 .withProperty(Version.VERSION_2_0)
+                .withProperty(new Url(new URI(AGENDA_URL)))
                 .withProperty(new Description("CloudLand 2023 Lineup - Das Cloud Native(s) Festival"));
 
         var ical = calendar.toString();
