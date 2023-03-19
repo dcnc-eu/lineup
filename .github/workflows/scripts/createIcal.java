@@ -10,6 +10,7 @@ import java.time.ZoneId;
 import java.time.ZoneOffset;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeFormatterBuilder;
+import java.util.Collection;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
@@ -91,12 +92,29 @@ public class createIcal {
             return "";
         };
 
+        Function<Object, String> getCoSpeaker = coSpeakers -> {
+            if (coSpeakers != null && coSpeakers instanceof Collection) {
+                return ((Collection<Map<String, String>>) coSpeakers).stream()
+                        .map(getSpeaker)
+                        .collect(Collectors.joining("\n"));
+            }
+            return "";
+        };
+
         Function<Object, String> getStreamIcon = streamId -> {
             if (streamId != null && !orEmpty(streamId).isBlank()) {
                 Map<String, Object> map = (Map<String, Object>) streams.get(streamId);
                 if (map != null) {
                     return orEmpty(map.get("icon")) + " ";
                 }
+            }
+            return "";
+        };
+
+        Function<Object, String> getStreamName = streamId -> {
+            if (streamId != null && !orEmpty(streamId).isBlank()) {
+                Map<String, String> map = (Map<String, String>) event.get("mainFocuses");
+                return orEmpty(map.get(streamId));
             }
             return "";
         };
@@ -112,14 +130,39 @@ public class createIcal {
                         var start = ((Number) value.get("start")).longValue();
                         var end = ((Number) value.get("end")).longValue();
                         var id = orEmpty(value.get("eventSlotId"));
+                        var icon = getStreamIcon.apply(value.get("mainFocus"));
+                        var streamName = getStreamName.apply(value.get("mainFocus"));
+                        var speaker = getSpeaker.apply(value.get("speaker"));
+                        var coSpeaker = getCoSpeaker.apply(value.get("coSpeaker"));
 
-                        var summary = getStreamIcon.apply(value.get("mainFocus")) + title;
+                        var description = new StringBuilder();
+                        if (!speaker.isBlank()) {
+                            description.append(speaker);
+                            description.append("\n");
+                        }
+                        if (!coSpeaker.isBlank()) {
+                            description.append(coSpeaker);
+                            description.append("\n");
+                        }
+                        if (description.length() > 0) {
+                            description.append("\n");
+                        }
+                        if (!streamName.isBlank()) {
+                            description.append(icon);
+                            description.append(streamName);
+                            description.append("\n");
+                        }
+                        if (description.length() > 0) {
+                            description.append("\n");
+                        }
+                        description.append("TODO: Description of " + title);
 
-                        var component = new VEvent(epochSecondsToDateTime(start), epochSecondsToDateTime(end), summary);
+                        var component = new VEvent(epochSecondsToDateTime(start), epochSecondsToDateTime(end), icon + title);
                         component.withProperty(new Uid("C-105." + item.getKey() + "." + id));
                         component.withProperty(new Location(getRoomById.apply(value.get("roomId"))));
                         component.withProperty(new TzId(BERLIN));
-                        component.withProperty(new Contact(getSpeaker.apply(value.get("speaker"))));
+                        component.withProperty(new Contact(speaker));
+                        component.withProperty(new Description(description.toString()));
 
                         return (CalendarComponent) component;
                     } catch (Exception e) {

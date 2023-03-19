@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
   schedule:
     # every two hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */12 * * *"
 jobs:
     update_data:
         name: Update Data from DOAG API
@@ -24,20 +24,23 @@ jobs:
                 restore-keys: |
                   ${{ runner.os }}-jbang-
 
+            - name: Fetch data
+              run: |
+                curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
+
             - name: Create iCalendar
               uses: jbangdev/jbang-action@v0.104.0
               with:
                 script: ".github/workflows/scripts/createIcal.java"
 
-            - name: Fetch and push data
+            - name: Push updates
               run: |
                 git config user.name "$GITHUB_ACTOR"
                 git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
 
-                curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
-
                 git add data.json
                 git add cloudland.ics
+
                 set +e
                 git commit -m "Update data.json and cloudland.ics"
                 if [ $? -eq 0 ]; then
