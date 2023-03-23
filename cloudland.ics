@@ -4,7 +4,7 @@ VERSION:2.0
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#eventDay.all
 DESCRIPTION:CloudLand 2023 Lineup - Das Cloud Native(s) Festival
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T170000Z
 DTEND:20230621T174500Z
 SUMMARY:Agile Transformation und Eheversprechen – warum ein „Ja ich will“ nicht ausreicht
@@ -15,7 +15,7 @@ CONTACT:Stefan Latuski
 DESCRIPTION:Stefan Latuski\n\n\nTODO: Description of Agile Transformation und Eheversprechen – warum ein „Ja ich will“ nicht ausreicht
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T170000Z
 DTEND:20230622T174500Z
 SUMMARY:Hack the world a better place
@@ -26,7 +26,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Hack the world a better place
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:⛅ CloudLand plays! - Einführung in das Spiel
@@ -37,7 +37,7 @@ CONTACT:Igor Gutmann (InterFace AG)
 DESCRIPTION:Igor Gutmann (InterFace AG)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of CloudLand plays! - Einführung in das Spiel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Kubernetes-Deployment Step-by-Step
@@ -48,7 +48,7 @@ CONTACT:Tanja Gallmann (Sopra Steria SE)
 DESCRIPTION:Tanja Gallmann (Sopra Steria SE)\nIgor Gutmann (InterFace AG)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kubernetes-Deployment Step-by-Step
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T134500Z
 SUMMARY:⛅ Cloud Native Security: Cloud? Aber sicher!
@@ -59,7 +59,7 @@ CONTACT:Jan Jürjens (Fraunhofer ISST)
 DESCRIPTION:Jan Jürjens (Fraunhofer ISST)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Cloud Native Security: Cloud? Aber sicher!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
 SUMMARY:🧘 IT-Security Capture The Flag (CTF)
@@ -70,7 +70,7 @@ CONTACT:Daniel Klinger (viadee IT-Unternehmensberatung AG)
 DESCRIPTION:Daniel Klinger (viadee IT-Unternehmensberatung AG)\nDr. Tobias Heide\n\n🧘 DevOps & Methodik\n\nTODO: Description of IT-Security Capture The Flag (CTF)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 MediaMarktSaturn Technology Backstage
@@ -81,7 +81,7 @@ CONTACT:Kevin Fritz (MediaMarktSaturn Technology)
 DESCRIPTION:Kevin Fritz (MediaMarktSaturn Technology)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of MediaMarktSaturn Technology Backstage
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ Ein Blick hinter die Kulissen eines Kubernetes-Operators - Code-Reading-Session
@@ -92,7 +92,7 @@ CONTACT:Jan Weyrich
 DESCRIPTION:Jan Weyrich\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Ein Blick hinter die Kulissen eines Kubernetes-Operators - Code-Reading-Session
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T120000Z
 DTEND:20230622T134500Z
 SUMMARY:🦿 Diverses Kubernetes-Anwendungs-Konfigurationsmanagement
@@ -103,7 +103,7 @@ CONTACT:Florian Heubeck (MediaMarktSaturn Technology)
 DESCRIPTION:Florian Heubeck (MediaMarktSaturn Technology)\nKevin Fritz\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Diverses Kubernetes-Anwendungs-Konfigurationsmanagement
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
 SUMMARY:🤹 Carving Microservices Out of the Monolith with Domain Storytelling
@@ -114,7 +114,7 @@ CONTACT:Henning Schwentner (WPS – Workplace Solutions)
 DESCRIPTION:Henning Schwentner (WPS – Workplace Solutions)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Carving Microservices Out of the Monolith with Domain Storytelling
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
 SUMMARY:🏋 Reden wir doch mal mit und über Chat GPT ! Ein aktueller Blick auf KI allgemein.
@@ -125,7 +125,7 @@ CONTACT:Armin Wildenberg (Data Analytics)
 DESCRIPTION:Armin Wildenberg (Data Analytics)\n\n🏋 Customer Stories\n\nTODO: Description of Reden wir doch mal mit und über Chat GPT ! Ein aktueller Blick auf KI allgemein.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ Azure Quantum & Microsoft Q#
@@ -136,7 +136,7 @@ CONTACT:Johnny Hooyberghs
 DESCRIPTION:Johnny Hooyberghs\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Azure Quantum & Microsoft Q#
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ Resilience Patterns mit Istio
@@ -147,7 +147,7 @@ CONTACT:Sofia Weiler (AOE GmbH)
 DESCRIPTION:Sofia Weiler (AOE GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Resilience Patterns mit Istio
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
 SUMMARY:🧘 Dev(Ops) Productivity starts at $HOME
@@ -158,7 +158,7 @@ CONTACT:Gerd Aschemann
 DESCRIPTION:Gerd Aschemann\n\n🧘 DevOps & Methodik\n\nTODO: Description of Dev(Ops) Productivity starts at $HOME
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
 SUMMARY:🦿 Pulumi Cloud Infrastructure Challenge (Vortrag und Challenge)
@@ -169,7 +169,7 @@ CONTACT:Benjamin Klatt (viadee Unternehmensberatung AG)
 DESCRIPTION:Benjamin Klatt (viadee Unternehmensberatung AG)\nDr. David Dasenbrook\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Pulumi Cloud Infrastructure Challenge (Vortrag und Challenge)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Github Copilot vs. Amazon CodeWhisperer for Java Developers
@@ -180,7 +180,7 @@ CONTACT:Vadym Kazulkin (ip.labs GmbH)
 DESCRIPTION:Vadym Kazulkin (ip.labs GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Github Copilot vs. Amazon CodeWhisperer for Java Developers
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Technology Radar
@@ -191,7 +191,7 @@ CONTACT:Michel Hartmann (FLYERALARM BitLabs GmbH)
 DESCRIPTION:Michel Hartmann (FLYERALARM BitLabs GmbH)\nBjörn Raupach (E2N GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Technology Radar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:🤹 Security Lab: OIDC in der Praxis
@@ -202,7 +202,7 @@ CONTACT:Christian Fritz (QAware)
 DESCRIPTION:Christian Fritz (QAware)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Security Lab: OIDC in der Praxis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ GraalVM Native Images in K8s
@@ -213,7 +213,7 @@ CONTACT:Noah Neukam
 DESCRIPTION:Noah Neukam\nUwe Neukam\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of GraalVM Native Images in K8s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ Serverless Survical Guide
@@ -224,7 +224,7 @@ CONTACT:Lars Röwekamp (open knowledge GmbH)
 DESCRIPTION:Lars Röwekamp (open knowledge GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Serverless Survical Guide
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T200000Z
 SUMMARY:🤹 Musikalische Experimente mit SonicPi in der Cloud
@@ -235,7 +235,7 @@ CONTACT:Andreas Badelt (DOAG CNC)
 DESCRIPTION:Andreas Badelt (DOAG CNC)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Musikalische Experimente mit SonicPi in der Cloud
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Go vs. Java
@@ -246,7 +246,7 @@ CONTACT:Jan Stamer (PPI AG)
 DESCRIPTION:Jan Stamer (PPI AG)\nLena Grimm\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Rock\, Paper\, Scissors Cloud Competition - Go vs. Java
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Diskussion (FishBowl)
@@ -257,7 +257,7 @@ CONTACT:Lena Grimm (PPI AG)
 DESCRIPTION:Lena Grimm (PPI AG)\nJan Stamer\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Rock\, Paper\, Scissors Cloud Competition - Diskussion (FishBowl)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Kubernetes von 0 auf 100 in einem Tag
@@ -268,7 +268,7 @@ CONTACT:Sascha Dittmann (Google Germany GmbH)
 DESCRIPTION:Sascha Dittmann (Google Germany GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kubernetes von 0 auf 100 in einem Tag
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
 SUMMARY:⛅ Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native
@@ -279,7 +279,7 @@ CONTACT:Renke Grunwald (OpenKnowledge GmbH)
 DESCRIPTION:Renke Grunwald (OpenKnowledge GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Kubernetes-Cluster auf Raspberry Pis aufsetzen
@@ -290,7 +290,7 @@ CONTACT:Max Harmathy (JUG Oberland)
 DESCRIPTION:Max Harmathy (JUG Oberland)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kubernetes-Cluster auf Raspberry Pis aufsetzen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Create your Pipeline - Ein GitOps Workshop mit Kubernetes und Flux
@@ -301,7 +301,7 @@ CONTACT:Thorsten Wussow (SLIX Gesellschaft für Computersysteme mbH)
 DESCRIPTION:Thorsten Wussow (SLIX Gesellschaft für Computersysteme mbH)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Create your Pipeline - Ein GitOps Workshop mit Kubernetes und Flux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Well Architected? Architektur-Ratgeber in der Cloud.
@@ -312,7 +312,7 @@ CONTACT:Alexander Kaserbacher (embarc Software Consulting GmbH)
 DESCRIPTION:Alexander Kaserbacher (embarc Software Consulting GmbH)\nStefan Zörner\n\n🧘 DevOps & Methodik\n\nTODO: Description of Well Architected? Architektur-Ratgeber in der Cloud.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
 SUMMARY:🧘 IT-Security Capture The Flag (CTF)
@@ -323,7 +323,7 @@ CONTACT:Daniel Klinger (viadee IT-Unternehmensberatung AG)
 DESCRIPTION:Daniel Klinger (viadee IT-Unternehmensberatung AG)\nDr. Tobias Heide\n\n🧘 DevOps & Methodik\n\nTODO: Description of IT-Security Capture The Flag (CTF)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 1
@@ -334,7 +334,7 @@ CONTACT:Matthias Fuchs (Quality Technology Solutions)
 DESCRIPTION:Matthias Fuchs (Quality Technology Solutions)\nBorys Neselovskyi\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of IMC Kubernetes - Day 2 Operations / Part 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 2
@@ -345,7 +345,7 @@ CONTACT:Heiko Stein (etomer GmbH)
 DESCRIPTION:Heiko Stein (etomer GmbH)\nMatthias Fuchs (Quality Technology Solutions)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of IMC Kubernetes - Day 2 Operations / Part 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 3
@@ -356,7 +356,7 @@ CONTACT:Borys Neselovskyi (DOAG IMC Comminuty / EDB)
 DESCRIPTION:Borys Neselovskyi (DOAG IMC Comminuty / EDB)\nHeiko Stein (etomer GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of IMC Kubernetes - Day 2 Operations / Part 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 GitOps in der Anwendungsentwicklung: Die Missing Links
@@ -367,7 +367,7 @@ CONTACT:Oliver Weise (Consol GmbH)
 DESCRIPTION:Oliver Weise (Consol GmbH)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of GitOps in der Anwendungsentwicklung: Die Missing Links
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Von der Domäne zur Implementierung mit Event Modeling
@@ -378,7 +378,7 @@ CONTACT:Frank Steimle (Digital Frontiers GmbH & Co KG)
 DESCRIPTION:Frank Steimle (Digital Frontiers GmbH & Co KG)\nFlorian Pfleiderer\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Von der Domäne zur Implementierung mit Event Modeling
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🏋 aufschlag.mörser.tulpe - Geodaten und ihre Verwendung
@@ -389,7 +389,7 @@ CONTACT:Armin Wildenberg
 DESCRIPTION:Armin Wildenberg\nSven Bosinger (its-people GmbH)\n\n🏋 Customer Stories\n\nTODO: Description of aufschlag.mörser.tulpe - Geodaten und ihre Verwendung
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Apps einfach deployen mit Cloud Foundry
@@ -400,7 +400,7 @@ CONTACT:Robert Krul (SINTEC Informatik GmbH)
 DESCRIPTION:Robert Krul (SINTEC Informatik GmbH)\nFlorain Roth\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Apps einfach deployen mit Cloud Foundry
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:🤹 Retro chic mit Pixel-art
@@ -411,7 +411,7 @@ CONTACT:Nina Körner (InterFace AG)
 DESCRIPTION:Nina Körner (InterFace AG)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Retro chic mit Pixel-art
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T134500Z
 SUMMARY:🤹 Weniger Angst vorm Vendor Lock-In mit Hexagonaler Architektur
@@ -422,7 +422,7 @@ CONTACT:Ferdinand Ade
 DESCRIPTION:Ferdinand Ade\nDr. Christian Franzen\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Weniger Angst vorm Vendor Lock-In mit Hexagonaler Architektur
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T150000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Distributed Tracing in Practice Workshop
@@ -433,7 +433,7 @@ CONTACT:Haddas Bronfman (Cisco)
 DESCRIPTION:Haddas Bronfman (Cisco)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Distributed Tracing in Practice Workshop
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:⛅ Stille Post mit AWS Lambdas
@@ -444,7 +444,7 @@ CONTACT:Max Tharr (Mayflower / WUEtech-Meetup-Community)
 DESCRIPTION:Max Tharr (Mayflower / WUEtech-Meetup-Community)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Stille Post mit AWS Lambdas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🧘 Guerilla Organisation Enablement - Developer-driven Transformation
@@ -455,7 +455,7 @@ CONTACT:John Fletcher (codecentric AG)
 DESCRIPTION:John Fletcher (codecentric AG)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Guerilla Organisation Enablement - Developer-driven Transformation
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ Mein k8s DevOps Cluster in der Tasche
@@ -466,7 +466,7 @@ CONTACT:Muthiah Chidambaram
 DESCRIPTION:Muthiah Chidambaram\nAndreas Badelt\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Mein k8s DevOps Cluster in der Tasche
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 AWS GameDay
@@ -477,7 +477,7 @@ CONTACT:Paul Enno Schulte (Amazon Web Services (AWS))
 DESCRIPTION:Paul Enno Schulte (Amazon Web Services (AWS))\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of AWS GameDay
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🧘 Keine Panik - die Cloud tut nicht weh
@@ -488,7 +488,7 @@ CONTACT:Ralph Löwe (BettercallPaul GmbH)
 DESCRIPTION:Ralph Löwe (BettercallPaul GmbH)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Keine Panik - die Cloud tut nicht weh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:🤹 Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices
@@ -499,7 +499,7 @@ CONTACT:Martin Kurz (ConSol Consulting & Solutions Software GmbH)
 DESCRIPTION:Martin Kurz (ConSol Consulting & Solutions Software GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Living on the Edge - Ein Rechenzentrum im Reisekoffer
@@ -510,7 +510,7 @@ CONTACT:Mario Fahlandt
 DESCRIPTION:Mario Fahlandt\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Living on the Edge - Ein Rechenzentrum im Reisekoffer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Tackling cross-cutting concerns within your architecture
@@ -521,7 +521,7 @@ CONTACT:Daniel Kocot (codecentric AG)
 DESCRIPTION:Daniel Kocot (codecentric AG)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Tackling cross-cutting concerns within your architecture
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains
@@ -532,7 +532,7 @@ CONTACT:Krischan Dickel (sipgate GmbH)
 DESCRIPTION:Krischan Dickel (sipgate GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Entertaining the Masses with AWS AppSync and Serverless Technologies
@@ -543,7 +543,7 @@ CONTACT:Joachim Aumann
 DESCRIPTION:Joachim Aumann\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Entertaining the Masses with AWS AppSync and Serverless Technologies
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:⛅ Pimp my Cluster | Kubernetes Operators mit dem JOSDK
@@ -554,7 +554,7 @@ CONTACT:Matthias Alt (DATEV eG)
 DESCRIPTION:Matthias Alt (DATEV eG)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Pimp my Cluster | Kubernetes Operators mit dem JOSDK
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🤹 Die nächsten 100 Microservices
@@ -565,7 +565,7 @@ CONTACT:Sascha Böhme (QAware GmbH)
 DESCRIPTION:Sascha Böhme (QAware GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Die nächsten 100 Microservices
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 Anwendung\, Laufzeitumgebung\, Low-Code-Plattform? - Die gleiche Frage\, wieder mal!
@@ -576,7 +576,7 @@ CONTACT:Frank Schuetz (Geek in Business GmbH)
 DESCRIPTION:Frank Schuetz (Geek in Business GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Anwendung\, Laufzeitumgebung\, Low-Code-Plattform? - Die gleiche Frage\, wieder mal!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🧘 Plug and pray
@@ -587,7 +587,7 @@ CONTACT:Oliver Szymanski (Bundesagentur für Arbeit)
 DESCRIPTION:Oliver Szymanski (Bundesagentur für Arbeit)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Plug and pray
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🦿 K8s-native Daten-Pipelines mit Quarkus und Argo et al.
@@ -598,7 +598,7 @@ CONTACT:Mario-Leander Reimer (QAware GmbH)
 DESCRIPTION:Mario-Leander Reimer (QAware GmbH)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of K8s-native Daten-Pipelines mit Quarkus und Argo et al.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:⛅ 502 Bad Gateway: Warum Zero Downtime mehr braucht als eine Config
@@ -609,7 +609,7 @@ CONTACT:Nikolai Neugebauer (Digital Frontiers GmbH & Co. KG)
 DESCRIPTION:Nikolai Neugebauer (Digital Frontiers GmbH & Co. KG)\nFrançois Fernandes\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of 502 Bad Gateway: Warum Zero Downtime mehr braucht als eine Config
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Modernes und flexibles Identity- und Access-Management mit Keycloak
@@ -620,7 +620,7 @@ CONTACT:Dominik Schlosser
 DESCRIPTION:Dominik Schlosser\nStefan Klein\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Modernes und flexibles Identity- und Access-Management mit Keycloak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:⛅ Container Vulnerability Management in Kubernetes
@@ -631,7 +631,7 @@ CONTACT:Kevin Schu (AOE GmbH)
 DESCRIPTION:Kevin Schu (AOE GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Container Vulnerability Management in Kubernetes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:⛅ Kubernetes Security - Supply-Chain-Security und Zero-Trust von Containern
@@ -642,7 +642,7 @@ CONTACT:Benjamin Bajorat (Mayflower GmbH / WueTech)
 DESCRIPTION:Benjamin Bajorat (Mayflower GmbH / WueTech)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kubernetes Security - Supply-Chain-Security und Zero-Trust von Containern
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🤹 Distributed System State Management: When Transactions are Long and SLA is High
@@ -653,7 +653,7 @@ CONTACT:Dr. Ilya Kaznacheev (InfraPulse)
 DESCRIPTION:Dr. Ilya Kaznacheev (InfraPulse)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Distributed System State Management: When Transactions are Long and SLA is High
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🧘 Wer sind wir?
@@ -664,7 +664,7 @@ CONTACT:Andreas Schrogl (JUG Oberland)
 DESCRIPTION:Andreas Schrogl (JUG Oberland)\nHeiko Krämer\n\n🧘 DevOps & Methodik\n\nTODO: Description of Wer sind wir?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🏋 DATEV im Wandel zur Cloud-Native-Company
@@ -675,7 +675,7 @@ CONTACT:Michael Schmidt (DATEV eG)
 DESCRIPTION:Michael Schmidt (DATEV eG)\n\n🏋 Customer Stories\n\nTODO: Description of DATEV im Wandel zur Cloud-Native-Company
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
 SUMMARY:🏋 Challenge Startup: Entwurf belastbarer Cloud-native-Architekturen
@@ -686,7 +686,7 @@ CONTACT:Niklas Mengele (Crewting GmbH)
 DESCRIPTION:Niklas Mengele (Crewting GmbH)\n\n🏋 Customer Stories\n\nTODO: Description of Challenge Startup: Entwurf belastbarer Cloud-native-Architekturen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🤹 Neue Programmiersprache „Ubiquitous“ - Ein DDD Projekt-Erfahrungsbericht
@@ -697,7 +697,7 @@ CONTACT:Azmir Abdi (sidion GmbH)
 DESCRIPTION:Azmir Abdi (sidion GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Neue Programmiersprache „Ubiquitous“ - Ein DDD Projekt-Erfahrungsbericht
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T110000Z
 DTEND:20230623T114500Z
 SUMMARY:🧘 Strategien\, Taktiken und Muster der Legacy-Ablösung
@@ -708,7 +708,7 @@ CONTACT:Tobias Voß (viadee Unternehmensberatung AG)
 DESCRIPTION:Tobias Voß (viadee Unternehmensberatung AG)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Strategien\, Taktiken und Muster der Legacy-Ablösung
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🏋 Von der Leichtigkeit des Seins - Theorie und Wahrheit in der Cloud
@@ -719,7 +719,7 @@ CONTACT:Dr. Annegret Junker
 DESCRIPTION:Dr. Annegret Junker\nDr. Ingo Battenfeld\n\n🏋 Customer Stories\n\nTODO: Description of Von der Leichtigkeit des Seins - Theorie und Wahrheit in der Cloud
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Patterns of Sustainability - Going Green in IT
@@ -730,7 +730,7 @@ CONTACT:Uwe Friedrichsen (codecentric AG)
 DESCRIPTION:Uwe Friedrichsen (codecentric AG)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Patterns of Sustainability - Going Green in IT
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🏋 Cloud Native Customer Stories: Lerncoach - Kür oder Pflicht?
@@ -741,7 +741,7 @@ CONTACT:Jürgen Latteyer (DATEV eG)
 DESCRIPTION:Jürgen Latteyer (DATEV eG)\n\n🏋 Customer Stories\n\nTODO: Description of Cloud Native Customer Stories: Lerncoach - Kür oder Pflicht?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:⛅ Enterprise-level Kubernetes Security mit Open Source Tools - geht das?
@@ -752,7 +752,7 @@ CONTACT:Markus Zimmermann
 DESCRIPTION:Markus Zimmermann\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Enterprise-level Kubernetes Security mit Open Source Tools - geht das?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Die Top Ten der Cloud Security Fails und wie man sie vermeidet
@@ -763,7 +763,7 @@ CONTACT:Kai Schubert (usd AG)
 DESCRIPTION:Kai Schubert (usd AG)\nPhillip Ansorge\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Die Top Ten der Cloud Security Fails und wie man sie vermeidet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:⛅ Multi-Cloud Kubernetes in action with Cassandra
@@ -774,7 +774,7 @@ CONTACT:Raghavan Srinivas
 DESCRIPTION:Raghavan Srinivas\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Multi-Cloud Kubernetes in action with Cassandra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:⛅ How to Build a Docker Engine-like Custom Container Without any Software
@@ -785,7 +785,7 @@ CONTACT:Gursimar Singh
 DESCRIPTION:Gursimar Singh\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of How to Build a Docker Engine-like Custom Container Without any Software
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:🤹 Cloud Native CQRS
@@ -796,7 +796,7 @@ CONTACT:Frank Steimle (Digital Frontiers GmbH & Co KG)
 DESCRIPTION:Frank Steimle (Digital Frontiers GmbH & Co KG)\nFrançois Fernandes\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Cloud Native CQRS
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 Idempotenz für Arme. Oder: Was machen wir nach 'Lift und Shift'?
@@ -807,7 +807,7 @@ CONTACT:Frank Werres (msg life central europe gmbh)
 DESCRIPTION:Frank Werres (msg life central europe gmbh)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Idempotenz für Arme. Oder: Was machen wir nach 'Lift und Shift'?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🦿 Modern Linux CLI Tools
@@ -818,7 +818,7 @@ CONTACT:Dr. Patrick Drechsler
 DESCRIPTION:Dr. Patrick Drechsler\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Modern Linux CLI Tools
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 Modernisierung des Identity- und Access-Managements in einer großen Behörde
@@ -829,7 +829,7 @@ CONTACT:Ulrich Gerkmann-Bartels (enpit GmbH & Co.KG)
 DESCRIPTION:Ulrich Gerkmann-Bartels (enpit GmbH & Co.KG)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Modernisierung des Identity- und Access-Managements in einer großen Behörde
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🏋 How to Understand Cloud Environments (fast)
@@ -840,7 +840,7 @@ CONTACT:René Wagner (IT-Systemhaus der Bundesagentur für Arbeit)
 DESCRIPTION:René Wagner (IT-Systemhaus der Bundesagentur für Arbeit)\nTim Heß\n\n🏋 Customer Stories\n\nTODO: Description of How to Understand Cloud Environments (fast)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🤹 Mit der Zeit gehen – flexible Architekturen
@@ -851,7 +851,7 @@ CONTACT:Falk Sippach (embarc Software Consulting GmbH)
 DESCRIPTION:Falk Sippach (embarc Software Consulting GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Mit der Zeit gehen – flexible Architekturen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Präsentation ohne Aufwand: Die Magie von GPT und anderen generativen KI-Modellen
@@ -862,7 +862,7 @@ CONTACT:Martin Förtsch
 DESCRIPTION:Martin Förtsch\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Präsentation ohne Aufwand: Die Magie von GPT und anderen generativen KI-Modellen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:🤹 Resilient Software Design - The Past\, the Present and the Future
@@ -873,7 +873,7 @@ CONTACT:Uwe Friedrichsen (codecentric AG)
 DESCRIPTION:Uwe Friedrichsen (codecentric AG)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Resilient Software Design - The Past\, the Present and the Future
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🤹 Geo-Analytics - Räumliche Analyse digitaler Zwillinge in der Cloud
@@ -884,7 +884,7 @@ CONTACT:Sven Bosinger (DB-Systel GmbH)
 DESCRIPTION:Sven Bosinger (DB-Systel GmbH)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Geo-Analytics - Räumliche Analyse digitaler Zwillinge in der Cloud
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:⛅ A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr
@@ -895,7 +895,7 @@ CONTACT:Mario-Leander Reimer (QAware GmbH)
 DESCRIPTION:Mario-Leander Reimer (QAware GmbH)\nWolfgang Klimt\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Refactoring - Spielerisch den Wert von Code-Qualität erleben!
@@ -906,7 +906,7 @@ CONTACT:Christoph Welcz (DATEV eG)
 DESCRIPTION:Christoph Welcz (DATEV eG)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Refactoring - Spielerisch den Wert von Code-Qualität erleben!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:⛅ Jeopardy in den IoT-Wolken
@@ -917,7 +917,7 @@ CONTACT:Markus Pepping (viadee Unternehmensberatung AG)
 DESCRIPTION:Markus Pepping (viadee Unternehmensberatung AG)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Jeopardy in den IoT-Wolken
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T190000Z
 DTEND:20230622T194500Z
 SUMMARY:⛅ The Original CloudLand Jeopardy
@@ -928,7 +928,7 @@ CONTACT:Heiko Krämer (JUG Oberland)
 DESCRIPTION:Heiko Krämer (JUG Oberland)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of The Original CloudLand Jeopardy
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🏋 Testen einer Cloud – wie geht man vor?
@@ -939,7 +939,7 @@ CONTACT:Nathalie Kuczewski (IT-Systemhaus - Bundesagentur für Arbeit)
 DESCRIPTION:Nathalie Kuczewski (IT-Systemhaus - Bundesagentur für Arbeit)\n\n🏋 Customer Stories\n\nTODO: Description of Testen einer Cloud – wie geht man vor?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
 SUMMARY:🦿 Webhooks in CIs - Schnee von gestern - Pipelines ereignisbasiert triggern
@@ -950,7 +950,7 @@ CONTACT:Tihomir Yordanov (JQuad OHG)
 DESCRIPTION:Tihomir Yordanov (JQuad OHG)\nLyubomir Yordanov (JQuad OHG)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Webhooks in CIs - Schnee von gestern - Pipelines ereignisbasiert triggern
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🏋 Zero Downtime Migration into Google Cloud Platform Using Oracle GoldenGate
@@ -961,7 +961,7 @@ CONTACT:Harald Maier (MediaMarktSaturn Technology)
 DESCRIPTION:Harald Maier (MediaMarktSaturn Technology)\nJuliana Gomes\n\n🏋 Customer Stories\n\nTODO: Description of Zero Downtime Migration into Google Cloud Platform Using Oracle GoldenGate
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
 SUMMARY:🦿 Automatisiert kontinuierliche Qualitätssicherung in komplexen PaaS-Systemen
@@ -972,7 +972,7 @@ CONTACT:Paul Schmidt (infologistix GmbH)
 DESCRIPTION:Paul Schmidt (infologistix GmbH)\nDr. Harald Gerhards\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Automatisiert kontinuierliche Qualitätssicherung in komplexen PaaS-Systemen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🤹 Nachhaltige Software-Architektur im Cloudzeitalter
@@ -983,7 +983,7 @@ CONTACT:Uwe Neukam (DATEV eG)
 DESCRIPTION:Uwe Neukam (DATEV eG)\nNoah Neukam\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Nachhaltige Software-Architektur im Cloudzeitalter
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:🧘 Warum eure Microservice-Architektur nicht funktioniert
@@ -994,7 +994,7 @@ CONTACT:Mick Hohmann (Mayflower GmbH / WUEtech-Meetup-Community)
 DESCRIPTION:Mick Hohmann (Mayflower GmbH / WUEtech-Meetup-Community)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Warum eure Microservice-Architektur nicht funktioniert
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🧘 DevOps in Enterprise-Umgebungen -  Kultur\, Organisation und Technologie
@@ -1005,7 +1005,7 @@ CONTACT:David Koenig (MediaMarktSaturn)
 DESCRIPTION:David Koenig (MediaMarktSaturn)\n\n🧘 DevOps & Methodik\n\nTODO: Description of DevOps in Enterprise-Umgebungen -  Kultur\, Organisation und Technologie
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:🧘 Machine Learning in der Cloud - die MLOps Plattform Kubeflow
@@ -1016,7 +1016,7 @@ CONTACT:Verena Barth
 DESCRIPTION:Verena Barth\n\n🧘 DevOps & Methodik\n\nTODO: Description of Machine Learning in der Cloud - die MLOps Plattform Kubeflow
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:🧘 Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.
@@ -1027,7 +1027,7 @@ CONTACT:Mario-Leander Reimer (QAware GmbH)
 DESCRIPTION:Mario-Leander Reimer (QAware GmbH)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Revolutionize Java DB App Dev with Reactive Streams and Java Virtual Threads
@@ -1038,7 +1038,7 @@ CONTACT:Juarez Barbosa Junior
 DESCRIPTION:Juarez Barbosa Junior\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Revolutionize Java DB App Dev with Reactive Streams and Java Virtual Threads
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Clean Architecture und Microservices
@@ -1049,7 +1049,7 @@ CONTACT:Roland König
 DESCRIPTION:Roland König\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Clean Architecture und Microservices
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Kubernetes Operator in Rust
@@ -1060,7 +1060,7 @@ CONTACT:Enno Boland
 DESCRIPTION:Enno Boland\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kubernetes Operator in Rust
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 A High-Speed Data Ingestion Solution in Java Using MQTT\, AMQP\, and STOMP
@@ -1071,7 +1071,7 @@ CONTACT:Juarez Barbosa Junior (ORACLE)
 DESCRIPTION:Juarez Barbosa Junior (ORACLE)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of A High-Speed Data Ingestion Solution in Java Using MQTT\, AMQP\, and STOMP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🤹 Moderne Service-zu-Service-Kommunikation mit gRPC
@@ -1082,7 +1082,7 @@ CONTACT:Roland König
 DESCRIPTION:Roland König\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Moderne Service-zu-Service-Kommunikation mit gRPC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🧘 Make Developers Fly: Principles for Platform Engineering
@@ -1093,7 +1093,7 @@ CONTACT:Robert Hoffmann (Amazon Web Services)
 DESCRIPTION:Robert Hoffmann (Amazon Web Services)\nAlex Krause\n\n🧘 DevOps & Methodik\n\nTODO: Description of Make Developers Fly: Principles for Platform Engineering
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🏋 Aufbau eines Digital Service Catalog mit Backstage.io
@@ -1104,7 +1104,7 @@ CONTACT:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Freelance))
 DESCRIPTION:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Freelance))\nBastian Heilemann\n\n🏋 Customer Stories\n\nTODO: Description of Aufbau eines Digital Service Catalog mit Backstage.io
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ Datenschutz in der Cloud - Löst Confidential Computing das Problem?
@@ -1115,7 +1115,7 @@ CONTACT:Florian Kretschmer (Cloud Native Computing Rheinland)
 DESCRIPTION:Florian Kretschmer (Cloud Native Computing Rheinland)\nVictoria Neiazy\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Datenschutz in der Cloud - Löst Confidential Computing das Problem?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🧘 Zero Trust: Wie die Cloud sicherer als der eigene Rechner wurde
@@ -1126,7 +1126,7 @@ CONTACT:Johann-Peter Hartmann
 DESCRIPTION:Johann-Peter Hartmann\n\n🧘 DevOps & Methodik\n\nTODO: Description of Zero Trust: Wie die Cloud sicherer als der eigene Rechner wurde
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Sovereign Cloud Stack: Converting the Vision into Action
@@ -1137,7 +1137,7 @@ CONTACT:Kurt Garloff (Open Source Business Alliance e.V.)
 DESCRIPTION:Kurt Garloff (Open Source Business Alliance e.V.)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Sovereign Cloud Stack: Converting the Vision into Action
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🏋 Die Cloud im Entwickleralltag der Bundesbehörde BAMF
@@ -1148,7 +1148,7 @@ CONTACT:Martin Möbius (Atos Information Technology GmbH)
 DESCRIPTION:Martin Möbius (Atos Information Technology GmbH)\nThomas Miederer\n\n🏋 Customer Stories\n\nTODO: Description of Die Cloud im Entwickleralltag der Bundesbehörde BAMF
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:🧘 Unsere \"Karte des Herumtreibers\": Dokumentation und Monitoring von Microservices
@@ -1159,7 +1159,7 @@ CONTACT:Michaela Kreipl (EnBW)
 DESCRIPTION:Michaela Kreipl (EnBW)\nMerlin Becker\n\n🧘 DevOps & Methodik\n\nTODO: Description of Unsere \"Karte des Herumtreibers\": Dokumentation und Monitoring von Microservices
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🏋 Evolution zu einer On-Premises Cloud aus Bausteinen (in einer Behörde)
@@ -1170,7 +1170,7 @@ CONTACT:Stephan Kaps (Java User Group Bonn)
 DESCRIPTION:Stephan Kaps (Java User Group Bonn)\n\n🏋 Customer Stories\n\nTODO: Description of Evolution zu einer On-Premises Cloud aus Bausteinen (in einer Behörde)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🧘 What you always wanted to know about SRE * but were afraid to ask
@@ -1181,7 +1181,7 @@ CONTACT:Bastian Spanneberg (Celonis)
 DESCRIPTION:Bastian Spanneberg (Celonis)\n\n🧘 DevOps & Methodik\n\nTODO: Description of What you always wanted to know about SRE * but were afraid to ask
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🦿 Observability for Efficient DevSecOps Pipelines
@@ -1192,7 +1192,7 @@ CONTACT:Michael Friedrich (GitLab)
 DESCRIPTION:Michael Friedrich (GitLab)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Observability for Efficient DevSecOps Pipelines
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T114500Z
 SUMMARY:⛅ Von Null auf Graph: Eine Reise zu Graphdatenbanken und Graph-basierten Analysen
@@ -1203,7 +1203,7 @@ CONTACT:Karin Patenge (Oracle Global Services Germany GmbH)
 DESCRIPTION:Karin Patenge (Oracle Global Services Germany GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Von Null auf Graph: Eine Reise zu Graphdatenbanken und Graph-basierten Analysen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ Mit Graph Algorithmen in der Cloud Ressourcennutzung optimieren
@@ -1214,7 +1214,7 @@ CONTACT:Korbi Schmid (Oracle Corporation)
 DESCRIPTION:Korbi Schmid (Oracle Corporation)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Mit Graph Algorithmen in der Cloud Ressourcennutzung optimieren
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🦿 Building Reliable Serverless Applications with AWS CDK and Testing
@@ -1225,7 +1225,7 @@ CONTACT:Raphael Manke (codecentric AG)
 DESCRIPTION:Raphael Manke (codecentric AG)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Building Reliable Serverless Applications with AWS CDK and Testing
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 Bulletproof Cloud Deployments with OIDC
@@ -1236,7 +1236,7 @@ CONTACT:Nico Meisenzahl (white duck)
 DESCRIPTION:Nico Meisenzahl (white duck)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Bulletproof Cloud Deployments with OIDC
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:⛅ Robuste Datenpipeline mit Open-Source-Software erstellen
@@ -1247,7 +1247,7 @@ CONTACT:Sascha Dittmann (Google Germany GmbH)
 DESCRIPTION:Sascha Dittmann (Google Germany GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Robuste Datenpipeline mit Open-Source-Software erstellen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T100000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Distributed SQL on containers: YugabyteDB
@@ -1258,7 +1258,7 @@ CONTACT:Franck Pachot (Yugabyte)
 DESCRIPTION:Franck Pachot (Yugabyte)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Distributed SQL on containers: YugabyteDB
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🦿 Ansible Ops mit Gitlab
@@ -1269,7 +1269,7 @@ CONTACT:Christian Lorenz (DATEV eG)
 DESCRIPTION:Christian Lorenz (DATEV eG)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Ansible Ops mit Gitlab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Wie baue ich eine skalierbare\, ereignisgetriebene Architektur mit AWS?
@@ -1280,7 +1280,7 @@ CONTACT:Ben Freiberg (Amazon Web Services (AWS))
 DESCRIPTION:Ben Freiberg (Amazon Web Services (AWS))\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Wie baue ich eine skalierbare\, ereignisgetriebene Architektur mit AWS?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:🧘 Meine Cloud ist kaputt - Troubleshooting in der Cloud
@@ -1291,7 +1291,7 @@ CONTACT:Ralph Löwe (BettercallPaul GmbH)
 DESCRIPTION:Ralph Löwe (BettercallPaul GmbH)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Meine Cloud ist kaputt - Troubleshooting in der Cloud
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 Methods and Approaches for Creating Distributed Systems
@@ -1302,7 +1302,7 @@ CONTACT:Markus Wagner
 DESCRIPTION:Markus Wagner\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Methods and Approaches for Creating Distributed Systems
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Advanced Observability & Security for your Kubernetes with a modern Service Mesh
@@ -1313,7 +1313,7 @@ CONTACT:Fabian Hardt (OPITZ CONSULTING Deutschland GmbH)
 DESCRIPTION:Fabian Hardt (OPITZ CONSULTING Deutschland GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Advanced Observability & Security for your Kubernetes with a modern Service Mesh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:⛅ Kong 101 – Einstieg in die Welt der API Gateways
@@ -1324,7 +1324,7 @@ CONTACT:Sven Bernhardt (OPITZ CONSULTING Deutschland GmbH)
 DESCRIPTION:Sven Bernhardt (OPITZ CONSULTING Deutschland GmbH)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Kong 101 – Einstieg in die Welt der API Gateways
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🏋 How to Send a Goal Notification in Real-time to Hundred Thousand Bundesliga Fans?
@@ -1335,7 +1335,7 @@ CONTACT:Christian Bonzelet (DFL Digital Sports)
 DESCRIPTION:Christian Bonzelet (DFL Digital Sports)\n\n🏋 Customer Stories\n\nTODO: Description of How to Send a Goal Notification in Real-time to Hundred Thousand Bundesliga Fans?
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🧘 Clean Code für DevOps und SysAdmins
@@ -1346,7 +1346,7 @@ CONTACT:Janno Tjarks (ENERCON IT Service GmbH)
 DESCRIPTION:Janno Tjarks (ENERCON IT Service GmbH)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Clean Code für DevOps und SysAdmins
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Quarkus on Azure
@@ -1357,7 +1357,7 @@ CONTACT:Ed Burns (Microsoft)
 DESCRIPTION:Ed Burns (Microsoft)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Quarkus on Azure
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🦿 Optimization of CI/CD Pipelines
@@ -1368,7 +1368,7 @@ CONTACT:Dr. Marius Shekow (SprintEins GmbH)
 DESCRIPTION:Dr. Marius Shekow (SprintEins GmbH)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Optimization of CI/CD Pipelines
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:🧘 Scrum und OPS / Scrum vs. OPS - Eine Diskussionsrunde
@@ -1379,7 +1379,7 @@ CONTACT:Nadine Süß (JUG Oberland)
 DESCRIPTION:Nadine Süß (JUG Oberland)\nHeiko Krämer\n\n🧘 DevOps & Methodik\n\nTODO: Description of Scrum und OPS / Scrum vs. OPS - Eine Diskussionsrunde
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ How to Prevent Your Kubernetes Cluster From Being Hacked
@@ -1390,7 +1390,7 @@ CONTACT:Nico Meisenzahl (white duck)
 DESCRIPTION:Nico Meisenzahl (white duck)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of How to Prevent Your Kubernetes Cluster From Being Hacked
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🦿 Mein Code ist meine Dokumentation... nur ist der nicht immer Zielgruppengerecht
@@ -1401,7 +1401,7 @@ CONTACT:Michael Twelkemeier (viadee Unternehmensberatung AG)
 DESCRIPTION:Michael Twelkemeier (viadee Unternehmensberatung AG)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Mein Code ist meine Dokumentation... nur ist der nicht immer Zielgruppengerecht
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🦿 Kubernetes Operator Hands-on
@@ -1412,7 +1412,7 @@ CONTACT:Axel Krämer (Heureso GmbH)
 DESCRIPTION:Axel Krämer (Heureso GmbH)\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Kubernetes Operator Hands-on
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Build ETL/ELT Pipelines Locally\, then Deploy and Execute at Scale on Kubernetes
@@ -1423,7 +1423,7 @@ CONTACT:Dr. Jan Kneissler (E. Breuninger GmbH & Co.)
 DESCRIPTION:Dr. Jan Kneissler (E. Breuninger GmbH & Co.)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Build ETL/ELT Pipelines Locally\, then Deploy and Execute at Scale on Kubernetes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
 SUMMARY:🧘 From Pets to Cattle in your Smarthome!
@@ -1434,7 +1434,7 @@ CONTACT:Dominic Giebert
 DESCRIPTION:Dominic Giebert\n\n🧘 DevOps & Methodik\n\nTODO: Description of From Pets to Cattle in your Smarthome!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T120000Z
 DTEND:20230621T144500Z
 SUMMARY:🤹 Microservices mit Golang in der Nussschale
@@ -1445,7 +1445,7 @@ CONTACT:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Feeelance))
 DESCRIPTION:Alexander Troppmann (kaizen DIGITAL A. Troppmann (Feeelance))\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of Microservices mit Golang in der Nussschale
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Learning eBPF for better Observability
@@ -1456,7 +1456,7 @@ CONTACT:Michael Friedrich (GitLab)
 DESCRIPTION:Michael Friedrich (GitLab)\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Learning eBPF for better Observability
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🏋 From Zero to Hero – Best Practices aus cloud-native GitOps-Projekten
@@ -1467,7 +1467,7 @@ CONTACT:Victor Getz (iits-consulting)
 DESCRIPTION:Victor Getz (iits-consulting)\n\n🏋 Customer Stories\n\nTODO: Description of From Zero to Hero – Best Practices aus cloud-native GitOps-Projekten
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T100000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Policy Driven Microservices mit Open Policy Agent
@@ -1478,7 +1478,7 @@ CONTACT:Andreas Zitzelsberger (QAware GmbH)
 DESCRIPTION:Andreas Zitzelsberger (QAware GmbH)\nAlex Krause\n\n🦿 CI/CD & Automatisierung\n\nTODO: Description of Policy Driven Microservices mit Open Policy Agent
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T130000Z
 DTEND:20230622T144500Z
 SUMMARY:⛅ Mehr Sicherheit in Kubernetes - mit Kyverno
@@ -1489,7 +1489,7 @@ CONTACT:Mario Fahlandt
 DESCRIPTION:Mario Fahlandt\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Mehr Sicherheit in Kubernetes - mit Kyverno
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ Let's Read Code Together
@@ -1500,7 +1500,7 @@ CONTACT:Jan Klippel (JUG Oberland)
 DESCRIPTION:Jan Klippel (JUG Oberland)\nFlorian Haftmann\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Let's Read Code Together
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🤹 OpenTelemetry für Fortgeschrittene
@@ -1511,7 +1511,7 @@ CONTACT:Severin Neumann (Cisco/AppDynamics || OpenTelemetry Community)
 DESCRIPTION:Severin Neumann (Cisco/AppDynamics || OpenTelemetry Community)\n\n🤹 Microservices & Domain-driven Design\n\nTODO: Description of OpenTelemetry für Fortgeschrittene
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T100000Z
 DTEND:20230623T134500Z
 SUMMARY:⛅ From Zero to Hero – GitOps Workshop mit K8s/Terraform/ArgoCD auf Open Telekom Cloud
@@ -1522,7 +1522,7 @@ CONTACT:Victor Getz (iits-consulting\, OpenTelekomCloud)
 DESCRIPTION:Victor Getz (iits-consulting\, OpenTelekomCloud)\nUlrich Schneider\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of From Zero to Hero – GitOps Workshop mit K8s/Terraform/ArgoCD auf Open Telekom Cloud
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:Siegerehrung JuiceShop CtF
@@ -1533,7 +1533,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Siegerehrung JuiceShop CtF
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T083000Z
 DTEND:20230620T100000Z
 SUMMARY:Marktplatz
@@ -1544,7 +1544,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Marktplatz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp I
@@ -1555,7 +1555,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp III
@@ -1566,7 +1566,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp III
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp II
@@ -1577,7 +1577,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp II
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T180000Z
 DTEND:20230620T190000Z
 SUMMARY:Pizza & Beer
@@ -1588,7 +1588,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Pizza & Beer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T190000Z
 DTEND:20230621T210000Z
 SUMMARY:Summernight
@@ -1599,7 +1599,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Summernight
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T083000Z
 DTEND:20230621T090000Z
 SUMMARY:Begrüßung
@@ -1610,7 +1610,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of Begrüßung
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T170000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1621,7 +1621,7 @@ CONTACT:Martin Förtsch
 DESCRIPTION:Martin Förtsch\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Innovation Hacking Showcases im Expo-Bereich
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T170000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1632,7 +1632,7 @@ CONTACT:Martin Förtsch
 DESCRIPTION:Martin Förtsch\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Innovation Hacking Showcases im Expo-Bereich
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T140000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1643,7 +1643,7 @@ CONTACT:Martin Förtsch
 DESCRIPTION:Martin Förtsch\n\n⛅ Container- & Cloud-Technologien\n\nTODO: Description of Innovation Hacking Showcases im Expo-Bereich
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T090000Z
 DTEND:20230621T210000Z
 SUMMARY:🧘 Pixelflut
@@ -1654,7 +1654,7 @@ CONTACT:Sandra Fischer (JUG Oberland)
 DESCRIPTION:Sandra Fischer (JUG Oberland)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Pixelflut
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
 SUMMARY:🧘 Pixelflut
@@ -1665,7 +1665,7 @@ CONTACT:Sandra Fischer (JUG Oberland)
 DESCRIPTION:Sandra Fischer (JUG Oberland)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Pixelflut
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T070000Z
 DTEND:20230623T150000Z
 SUMMARY:🧘 Pixelflut
@@ -1676,7 +1676,7 @@ CONTACT:Sandra Fischer (JUG Oberland)
 DESCRIPTION:Sandra Fischer (JUG Oberland)\n\n🧘 DevOps & Methodik\n\nTODO: Description of Pixelflut
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230621T100000Z
 DTEND:20230621T210000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1687,7 +1687,7 @@ CONTACT:
 DESCRIPTION:⛅ Container- & Cloud-Technologien\n\nTODO: Description of CloudLand plays!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T090000Z
 DTEND:20230623T130000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1698,7 +1698,7 @@ CONTACT:
 DESCRIPTION:⛅ Container- & Cloud-Technologien\n\nTODO: Description of CloudLand plays!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1709,7 +1709,7 @@ CONTACT:
 DESCRIPTION:⛅ Container- & Cloud-Technologien\n\nTODO: Description of CloudLand plays!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp IV
@@ -1720,7 +1720,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp IV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp V
@@ -1731,7 +1731,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp V
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VI
@@ -1742,7 +1742,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp VI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VII
@@ -1753,7 +1753,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp VII
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp VIII
@@ -1764,7 +1764,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp VIII
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230620T100000Z
 DTEND:20230620T170000Z
 SUMMARY:CloudCamp IX
@@ -1775,7 +1775,7 @@ CONTACT:
 DESCRIPTION:TODO: Description of CloudCamp IX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T005053Z
+DTSTAMP:20230323T121927Z
 DTSTART:20230623T070000Z
 DTEND:20230623T074500Z
 SUMMARY:Cloud Native(s) Roundtable(s) & Coffee
