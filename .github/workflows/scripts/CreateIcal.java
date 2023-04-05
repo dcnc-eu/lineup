@@ -173,23 +173,24 @@ public class CreateIcal {
 
                         var description = new StringBuilder();
                         if (!speaker.isBlank()) {
+                            description.append("<i>");
                             description.append(speaker);
-                            description.append("\n");
+                            description.append("</i><br/>");
                         }
                         if (!coSpeaker.isBlank()) {
                             description.append(coSpeaker);
-                            description.append("\n");
+                            description.append("<br/>");
                         }
                         if (description.length() > 0) {
-                            description.append("\n");
+                            description.append("<br/>");
                         }
                         if (!streamName.isBlank()) {
                             description.append(icon);
                             description.append(streamName);
-                            description.append("\n");
+                            description.append("<br/>");
                         }
                         if (description.length() > 0) {
-                            description.append("\n");
+                            description.append("<br/>");
                         }
                         description.append(getDescriptionByAgendaId.apply(agendaId));
 
