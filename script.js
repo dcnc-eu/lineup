@@ -9,7 +9,7 @@ var options = {
 };
 
 async function loadData() {
-    const data = await fetch("data.json")
+    const data = await fetch("event.json")
         .then(response => response.json())
         .catch(error => console.log(error));
     const mixin = await fetch("mixin.json")

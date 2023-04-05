@@ -26,27 +26,28 @@ jobs:
 
             - name: Fetch data
               run: |
-                curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o data.json
+                curl -s -f https://shop.doag.org/api/event/action.getMyLocationEvent/eventId.105 -o event.json
+                curl -s -f https://shop.doag.org/api/event/action.getCPEventAgenda/eventId.105 -o agenda.json
 
             - name: Create iCalendar
               uses: jbangdev/jbang-action@v0.104.0
               with:
-                script: ".github/workflows/scripts/createIcal.java"
+                script: ".github/workflows/scripts/CreateIcal.java"
 
             - name: Push updates
               run: |
                 git config user.name "$GITHUB_ACTOR"
                 git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
 
-                git add data.json
+                git add event.json
                 git add cloudland.ics
 
                 set +e
-                git commit -m "Update data.json and cloudland.ics"
+                git commit -m "Update event.json and cloudland.ics"
                 if [ $? -eq 0 ]; then
                   set -e
                   git push origin gh-pages
                 else
-                  echo "data.json up to date"
+                  echo "event.json up to date"
                 fi
 
