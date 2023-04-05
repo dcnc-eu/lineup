@@ -40,14 +40,14 @@ jobs:
                 git config user.email "$GITHUB_ACTOR@users.noreply.github.com"
 
                 git add event.json
-                git add cloudland.ics
+                git add cloudland23.ics
 
                 set +e
-                git commit -m "Update event.json and cloudland.ics"
+                git commit -m "Update event.json and cloudland23.ics"
                 if [ $? -eq 0 ]; then
                   set -e
                   git push origin gh-pages
                 else
-                  echo "event.json up to date"
+                  echo "Files up to date"
                 fi
 

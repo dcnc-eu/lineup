@@ -218,7 +218,7 @@ public class CreateIcal {
         var ical = calendar.toString();
 
         Files.write(
-                Paths.get("cloudland.ics"),
+                Paths.get("cloudland23.ics"),
                 ical.getBytes(StandardCharsets.UTF_8),
                 StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
