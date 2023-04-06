@@ -4,7 +4,7 @@ VERSION:2.0
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#eventDay.all
 DESCRIPTION:CloudLand 2023 Lineup - Das Cloud Native(s) Festival
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T170000Z
 DTEND:20230622T174500Z
 SUMMARY:KEYNOTE: Agile Transformation und Eheversprechen – warum ein „Ja ich will“ nicht ausreicht
@@ -16,7 +16,7 @@ DESCRIPTION:<i>Stefan Latuski (IT-Systemhaus Bundesagentur für Arbeit)</i><br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2301
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T170000Z
 DTEND:20230621T174500Z
 SUMMARY:KEYNOTE: Hack the world a better place
@@ -28,7 +28,7 @@ DESCRIPTION:Wir sehen\, dass junge Menschen heute zwar oft digitale Technik gut 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2302
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:⛅ CloudLand plays! - Einführung in das Spiel
@@ -40,7 +40,7 @@ DESCRIPTION:<i>Igor Gutmann (InterFace AG)</i><br/><br/>⛅ Container- & Cloud-T
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2324
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Kubernetes-Deployment Step-by-Step
@@ -52,7 +52,7 @@ DESCRIPTION:<i>Tanja Gallmann (Sopra Steria SE)</i><br/>Igor Gutmann (InterFace 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2326
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T134500Z
 SUMMARY:⛅ Cloud Native Security: Cloud? Aber sicher!
@@ -64,7 +64,7 @@ DESCRIPTION:<i>Jan Jürjens (Fraunhofer ISST)</i><br/><br/>⛅ Container- & Clou
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2327
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
 SUMMARY:🧘 IT-Security Capture The Flag (CTF)
@@ -76,7 +76,7 @@ DESCRIPTION:<i>Daniel Klinger (viadee IT-Unternehmensberatung AG)</i><br/>Dr. To
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2329
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 MediaMarktSaturn Technology Backstage
@@ -88,7 +88,7 @@ DESCRIPTION:<i>Kevin Fritz (MediaMarktSaturn Technology)</i><br/><br/>🤹 Micro
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2336
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ Ein Blick hinter die Kulissen eines Kubernetes-Operators - Code-Reading-Session
@@ -100,7 +100,7 @@ DESCRIPTION:<i>Jan Weyrich</i><br/><br/>⛅ Container- & Cloud-Technologien<br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T120000Z
 DTEND:20230622T134500Z
 SUMMARY:🦿 Diverses Kubernetes-Anwendungs-Konfigurationsmanagement
@@ -112,7 +112,7 @@ DESCRIPTION:<i>Florian Heubeck (MediaMarktSaturn Technology)</i><br/>Kevin Fritz
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2339
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
 SUMMARY:🤹 Carving Microservices Out of the Monolith with Domain Storytelling
@@ -124,7 +124,7 @@ DESCRIPTION:<i>Henning Schwentner (WPS – Workplace Solutions)</i><br/><br/>�
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2341
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
 SUMMARY:🏋 Reden wir doch mal mit und über Chat GPT ! Ein aktueller Blick auf KI allgemein.
@@ -136,7 +136,7 @@ DESCRIPTION:<i>Armin Wildenberg (Data Analytics)</i><br/><br/>🏋 Customer Stor
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2345
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ Azure Quantum & Microsoft Q#
@@ -148,7 +148,7 @@ DESCRIPTION:<i>Johnny Hooyberghs</i><br/><br/>⛅ Container- & Cloud-Technologie
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2347
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ Resilience Patterns mit Istio
@@ -160,7 +160,7 @@ DESCRIPTION:<i>Sofia Weiler (AOE GmbH)</i><br/><br/>⛅ Container- & Cloud-Techn
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2350
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
 SUMMARY:🧘 Dev(Ops) Productivity starts at $HOME
@@ -172,7 +172,7 @@ DESCRIPTION:<i>Gerd Aschemann</i><br/><br/>🧘 DevOps & Methodik<br/><br/><p>Ih
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2352
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
 SUMMARY:🦿 Pulumi Cloud Infrastructure Challenge (Vortrag und Challenge)
@@ -184,7 +184,7 @@ DESCRIPTION:<i>Benjamin Klatt (viadee Unternehmensberatung AG)</i><br/>Dr. David
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2355
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Github Copilot vs. Amazon CodeWhisperer for Java Developers
@@ -196,7 +196,7 @@ DESCRIPTION:<i>Vadym Kazulkin (ip.labs GmbH)</i><br/><br/>⛅ Container- & Cloud
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2359
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Technology Radar
@@ -208,7 +208,7 @@ DESCRIPTION:<i>Michel Hartmann (FLYERALARM BitLabs GmbH)</i><br/>Björn Raupach 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2361
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:🤹 Security Lab: OIDC in der Praxis
@@ -220,7 +220,7 @@ DESCRIPTION:<i>Christian Fritz (QAware)</i><br/><br/>🤹 Microservices & Domain
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2367
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ GraalVM Native Images in K8s
@@ -232,7 +232,7 @@ DESCRIPTION:<i>Noah Neukam</i><br/>Uwe Neukam<br/><br/>⛅ Container- & Cloud-Te
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2369
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ Serverless Survical Guide
@@ -244,7 +244,7 @@ DESCRIPTION:<i>Lars Röwekamp (open knowledge GmbH)</i><br/><br/>⛅ Container- 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2371
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T200000Z
 SUMMARY:🤹 Musikalische Experimente mit SonicPi in der Cloud
@@ -256,7 +256,7 @@ DESCRIPTION:<i>Andreas Badelt (DOAG CNC)</i><br/><br/>🤹 Microservices & Domai
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2376
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Go vs. Java
@@ -268,7 +268,7 @@ DESCRIPTION:<i>Jan Stamer (PPI AG)</i><br/>Lena Grimm<br/><br/>🤹 Microservice
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2378
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🤹 Rock\, Paper\, Scissors Cloud Competition - Diskussion (FishBowl)
@@ -280,7 +280,7 @@ DESCRIPTION:<i>Lena Grimm (PPI AG)</i><br/>Jan Stamer<br/><br/>🤹 Microservice
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2380
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Kubernetes von 0 auf 100 in einem Tag
@@ -292,7 +292,7 @@ DESCRIPTION:<i>Sascha Dittmann (Google Germany GmbH)</i><br/><br/>⛅ Container-
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2381
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
 SUMMARY:⛅ Cloud-Workshop: Vom Cloud-Muffel zum Cloud-Native
@@ -304,7 +304,7 @@ DESCRIPTION:<i>Renke Grunwald (OpenKnowledge GmbH)</i><br/><br/>⛅ Container- &
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2386
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Kubernetes-Cluster auf Raspberry Pis aufsetzen
@@ -316,7 +316,7 @@ DESCRIPTION:<i>Max Harmathy (JUG Oberland)</i><br/><br/>⛅ Container- & Cloud-T
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2391
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Create your Pipeline - Ein GitOps Workshop mit Kubernetes und Flux
@@ -328,7 +328,7 @@ DESCRIPTION:<i>Thorsten Wussow (SLIX Gesellschaft für Computersysteme mbH)</i><
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Well Architected? Architektur-Ratgeber in der Cloud.
@@ -340,7 +340,7 @@ DESCRIPTION:<i>Alexander Kaserbacher (embarc Software Consulting GmbH)</i><br/>S
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2403
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T210000Z
 SUMMARY:🧘 IT-Security Capture The Flag (CTF)
@@ -352,7 +352,7 @@ DESCRIPTION:<i>Daniel Klinger (viadee IT-Unternehmensberatung AG)</i><br/>Dr. To
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2407
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 1
@@ -364,7 +364,7 @@ DESCRIPTION:<i>Matthias Fuchs (Quality Technology Solutions)</i><br/>Borys Nesel
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2409
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 2
@@ -376,7 +376,7 @@ DESCRIPTION:<i>Heiko Stein (etomer GmbH)</i><br/>Matthias Fuchs (Quality Technol
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2410
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T110000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ IMC Kubernetes - Day 2 Operations / Part 3
@@ -388,7 +388,7 @@ DESCRIPTION:<i>Borys Neselovskyi (DOAG IMC Comminuty / EDB)</i><br/>Heiko Stein 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2412
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T130000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 GitOps in der Anwendungsentwicklung: Die Missing Links
@@ -400,7 +400,7 @@ DESCRIPTION:<i>Oliver Weise (Consol GmbH)</i><br/><br/>🦿 CI/CD & Automatisier
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2414
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Von der Domäne zur Implementierung mit Event Modeling
@@ -412,7 +412,7 @@ DESCRIPTION:<i>Frank Steimle (Digital Frontiers GmbH & Co KG)</i><br/>Florian Pf
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2417
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🏋 aufschlag.mörser.tulpe - Geodaten und ihre Verwendung
@@ -424,7 +424,7 @@ DESCRIPTION:<i>Armin Wildenberg</i><br/>Sven Bosinger (its-people GmbH)<br/><br/
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2421
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Apps einfach deployen mit Cloud Foundry
@@ -436,7 +436,7 @@ DESCRIPTION:<i>Robert Krul (SINTEC Informatik GmbH)</i><br/>Florain Roth<br/><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2423
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:🤹 Retro chic mit Pixel-art
@@ -448,7 +448,7 @@ DESCRIPTION:<i>Nina Körner (InterFace AG)</i><br/><br/>🤹 Microservices & Dom
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2429
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T134500Z
 SUMMARY:🤹 Weniger Angst vorm Vendor Lock-In mit Hexagonaler Architektur
@@ -460,7 +460,7 @@ DESCRIPTION:<i>Ferdinand Ade</i><br/>Dr. Christian Franzen<br/><br/>🤹 Microse
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2431
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T150000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Distributed tracing in practice workshop
@@ -472,7 +472,7 @@ DESCRIPTION:<i>Haddas Bronfman (Cisco)</i><br/><br/>🧘 DevOps & Methodik<br/><
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2435
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:⛅ Stille Post mit AWS Lambdas
@@ -484,7 +484,7 @@ DESCRIPTION:<i>Max Tharr (Mayflower / WUEtech-Meetup-Community)</i><br/><br/>⛅
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2438
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🧘 Guerilla Organisation Enablement - Developer-driven Transformation
@@ -496,7 +496,7 @@ DESCRIPTION:<i>John Fletcher (codecentric AG)</i><br/><br/>🧘 DevOps & Methodi
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2440
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T104500Z
 SUMMARY:⛅ Mein k8s DevOps Cluster in der Tasche
@@ -508,7 +508,7 @@ DESCRIPTION:<i>Muthiah Chidambaram</i><br/>Andreas Badelt<br/><br/>⛅ Container
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2441
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T110000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 AWS GameDay
@@ -520,7 +520,7 @@ DESCRIPTION:<i>Paul Enno Schulte (Amazon Web Services (AWS))</i><br/><br/>🦿 C
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2443
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🧘 Keine Panik - die Cloud tut nicht weh
@@ -532,7 +532,7 @@ DESCRIPTION:<i>Ralph Löwe (BettercallPaul GmbH)</i><br/><br/>🧘 DevOps & Meth
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2479
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:🤹 Semi-automatisierte Migration von Legacy Code zu Cloud-Native Microservices
@@ -544,7 +544,7 @@ DESCRIPTION:<i>Martin Kurz (ConSol Consulting & Solutions Software GmbH)</i><br/
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2480
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Living on the Edge - Ein Rechenzentrum im Reisekoffer
@@ -556,7 +556,7 @@ DESCRIPTION:<i>Mario Fahlandt</i><br/><br/>⛅ Container- & Cloud-Technologien<b
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2481
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Tackling cross-cutting concerns within your architecture
@@ -568,7 +568,7 @@ DESCRIPTION:<i>Daniel Kocot (codecentric AG)</i><br/><br/>🤹 Microservices & D
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Eventual vs. Optimistic Consistency - Datenaustausch zwischen Domains
@@ -580,7 +580,7 @@ DESCRIPTION:<i>Krischan Dickel (sipgate GmbH)</i><br/><br/>🤹 Microservices & 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2483
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Entertaining the Masses with AWS AppSync and Serverless Technologies
@@ -592,7 +592,7 @@ DESCRIPTION:<i>Joachim Aumann</i><br/>Fabian Desoye<br/><br/>⛅ Container- & Cl
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2484
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:⛅ Pimp my Cluster | Kubernetes Operators mit dem JOSDK
@@ -604,7 +604,7 @@ DESCRIPTION:<i>Matthias Alt (DATEV eG)</i><br/><br/>⛅ Container- & Cloud-Techn
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2485
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🤹 Die nächsten 100 Microservices
@@ -616,7 +616,7 @@ DESCRIPTION:<i>Sascha Böhme (QAware GmbH)</i><br/><br/>🤹 Microservices & Dom
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2486
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 Anwendung\, Laufzeitumgebung\, Low-Code-Plattform? - Die gleiche Frage\, wieder mal!
@@ -628,7 +628,7 @@ DESCRIPTION:<i>Frank Schuetz (Geek in Business GmbH)</i><br/><br/>🤹 Microserv
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2491
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🧘 Plug and pray
@@ -640,7 +640,7 @@ DESCRIPTION:<i>Oliver Szymanski (Bundesagentur für Arbeit)</i><br/><br/>🧘 De
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2492
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🦿 K8s-native Daten-Pipelines mit Quarkus und Argo et al.
@@ -652,7 +652,7 @@ DESCRIPTION:<i>Mario-Leander Reimer (QAware GmbH)</i><br/><br/>🦿 CI/CD & Auto
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2493
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:⛅ 502 Bad Gateway: Warum Zero Downtime mehr braucht als eine Config
@@ -664,7 +664,7 @@ DESCRIPTION:<i>Nikolai Neugebauer (Digital Frontiers GmbH & Co. KG)</i><br/>Fran
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2494
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Modernes und flexibles Identity- und Access-Management mit Keycloak
@@ -676,7 +676,7 @@ DESCRIPTION:<i>Dominik Schlosser</i><br/>Stefan Klein<br/><br/>⛅ Container- & 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2495
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:⛅ Container Vulnerability Management in Kubernetes
@@ -688,7 +688,7 @@ DESCRIPTION:<i>Kevin Schu (AOE GmbH)</i><br/><br/>⛅ Container- & Cloud-Technol
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:⛅ Kubernetes Security - Supply-Chain-Security und Zero-Trust von Containern
@@ -700,7 +700,7 @@ DESCRIPTION:<i>Benjamin Bajorat (Mayflower GmbH / WueTech)</i><br/><br/>⛅ Cont
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🤹 Distributed System State Management: When Transactions are Long and SLA is High
@@ -712,7 +712,7 @@ DESCRIPTION:<i>Dr. Ilya Kaznacheev (InfraPulse)</i><br/><br/>🤹 Microservices 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2498
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🧘 Wer sind wir?
@@ -724,7 +724,7 @@ DESCRIPTION:<i>Andreas Schrogl (JUG Oberland)</i><br/>Heiko Krämer<br/><br/>�
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🏋 DATEV im Wandel zur Cloud-Native-Company
@@ -736,7 +736,7 @@ DESCRIPTION:<i>Michael Schmidt (DATEV eG)</i><br/><br/>🏋 Customer Stories<br/
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
 SUMMARY:🏋 Challenge Startup: Entwurf belastbarer Cloud-native-Architekturen
@@ -748,7 +748,7 @@ DESCRIPTION:<i>Niklas Mengele (Crewting GmbH)</i><br/><br/>🏋 Customer Stories
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2503
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🤹 Neue Programmiersprache „Ubiquitous“ - Ein DDD Projekt-Erfahrungsbericht
@@ -760,7 +760,7 @@ DESCRIPTION:<i>Azmir Abdi (sidion GmbH)</i><br/><br/>🤹 Microservices & Domain
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2504
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T110000Z
 DTEND:20230623T114500Z
 SUMMARY:🧘 Strategien\, Taktiken und Muster der Legacy-Ablösung
@@ -772,7 +772,7 @@ DESCRIPTION:<i>Tobias Voß (viadee Unternehmensberatung AG)</i><br/><br/>🧘 De
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2505
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🏋 Von der Leichtigkeit des Seins - Theorie und Wahrheit in der Cloud
@@ -784,7 +784,7 @@ DESCRIPTION:<i>Dr. Annegret Junker</i><br/>Dr. Ingo Battenfeld<br/><br/>🏋 Cus
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2507
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Patterns of Sustainability - Going Green in IT
@@ -796,7 +796,7 @@ DESCRIPTION:<i>Uwe Friedrichsen (codecentric AG)</i><br/><br/>⛅ Container- & C
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🏋 Cloud Native Customer Stories: Lerncoach - Kür oder Pflicht?
@@ -808,7 +808,7 @@ DESCRIPTION:<i>Jürgen Latteyer (DATEV eG)</i><br/><br/>🏋 Customer Stories<br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:⛅ Enterprise-level Kubernetes Security mit Open Source Tools - geht das?
@@ -820,7 +820,7 @@ DESCRIPTION:<i>Markus Zimmermann</i><br/><br/>⛅ Container- & Cloud-Technologie
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Die Top Ten der Cloud Security Fails und wie man sie vermeidet
@@ -832,7 +832,7 @@ DESCRIPTION:<i>Kai Schubert (usd AG)</i><br/>Phillip Ansorge<br/><br/>⛅ Contai
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:⛅ Multi-Cloud Kubernetes in action with Cassandra
@@ -844,7 +844,7 @@ DESCRIPTION:<i>Raghavan Srinivas</i><br/><br/>⛅ Container- & Cloud-Technologie
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2544
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:⛅ How to Build a Docker Engine-like Custom Container Without any Software
@@ -856,7 +856,7 @@ DESCRIPTION:<i>Gursimar Singh</i><br/><br/>⛅ Container- & Cloud-Technologien<b
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2545
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:🤹 Cloud Native CQRS
@@ -868,7 +868,7 @@ DESCRIPTION:<i>Frank Steimle (Digital Frontiers GmbH & Co KG)</i><br/>François 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2546
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 Idempotenz für Arme. Oder: Was machen wir nach 'Lift und Shift'?
@@ -880,7 +880,7 @@ DESCRIPTION:<i>Frank Werres (msg life central europe gmbh)</i><br/><br/>🤹 Mic
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🦿 Modern Linux CLI Tools
@@ -892,7 +892,7 @@ DESCRIPTION:<i>Dr. Patrick Drechsler</i><br/><br/>🦿 CI/CD & Automatisierung<b
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🤹 Modernisierung des Identity- und Access-Managements in einer großen Behörde
@@ -904,7 +904,7 @@ DESCRIPTION:<i>Ulrich Gerkmann-Bartels (enpit GmbH & Co.KG)</i><br/><br/>🤹 Mi
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2553
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🏋 How to Understand Cloud Environments (fast)
@@ -916,7 +916,7 @@ DESCRIPTION:<i>René Wagner (IT-Systemhaus der Bundesagentur für Arbeit)</i><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2554
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🤹 Mit der Zeit gehen – flexible Architekturen
@@ -928,7 +928,7 @@ DESCRIPTION:<i>Falk Sippach (embarc Software Consulting GmbH)</i><br/><br/>🤹 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2555
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Präsentation ohne Aufwand: Die Magie von GPT und anderen generativen KI-Modellen
@@ -940,7 +940,7 @@ DESCRIPTION:<i>Martin Förtsch</i><br/><br/>🦿 CI/CD & Automatisierung<br/><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2556
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:🤹 Resilient Software Design - The Past\, the Present and the Future
@@ -952,7 +952,7 @@ DESCRIPTION:<i>Uwe Friedrichsen (codecentric AG)</i><br/><br/>🤹 Microservices
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2557
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🤹 Geo-Analytics - Räumliche Analyse digitaler Zwillinge in der Cloud
@@ -964,7 +964,7 @@ DESCRIPTION:<i>Sven Bosinger (DB-Systel GmbH)</i><br/><br/>🤹 Microservices & 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:⛅ A Hitchhikers Guide to the Cloud Friendly Migration of Apache Solr
@@ -976,7 +976,7 @@ DESCRIPTION:<i>Mario-Leander Reimer (QAware GmbH)</i><br/>Wolfgang Klimt<br/><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2559
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🧘 Refuctoring [sic!] - Spielerisch den Wert von Code-Qualität erleben!
@@ -988,7 +988,7 @@ DESCRIPTION:<i>Christoph Welcz (DATEV eG)</i><br/><br/>🧘 DevOps & Methodik<br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2560
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:⛅ Jeopardy in den IoT-Wolken
@@ -1000,7 +1000,7 @@ DESCRIPTION:<i>Markus Pepping (viadee Unternehmensberatung AG)</i><br/><br/>⛅ 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T190000Z
 DTEND:20230622T194500Z
 SUMMARY:⛅ The Original CloudLand Jeopardy
@@ -1012,7 +1012,7 @@ DESCRIPTION:<i>Heiko Krämer (JUG Oberland)</i><br/><br/>⛅ Container- & Cloud-
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2563
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🏋 Testen einer Cloud – wie geht man vor?
@@ -1024,7 +1024,7 @@ DESCRIPTION:<i>Nathalie Kuczewski (IT-Systemhaus - Bundesagentur für Arbeit)</i
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2564
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T094500Z
 SUMMARY:🦿 Webhooks in CIs - Schnee von gestern - Pipelines ereignisbasiert triggern
@@ -1036,7 +1036,7 @@ DESCRIPTION:<i>Tihomir Yordanov (JQuad OHG)</i><br/>Lyubomir Yordanov (JQuad OHG
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2565
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T104500Z
 SUMMARY:🏋 Zero Downtime Migration into Google Cloud Platform Using Oracle GoldenGate
@@ -1048,7 +1048,7 @@ DESCRIPTION:<i>Harald Maier (MediaMarktSaturn Technology)</i><br/>Juliana Gomes<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2566
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
 SUMMARY:🦿 Automatisiert kontinuierliche Qualitätssicherung in komplexen PaaS-Systemen
@@ -1060,7 +1060,7 @@ DESCRIPTION:<i>Paul Schmidt (infologistix GmbH)</i><br/>Dr. Harald Gerhards<br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2568
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🤹 Nachhaltige Software-Architektur im Cloudzeitalter
@@ -1072,7 +1072,7 @@ DESCRIPTION:<i>Uwe Neukam (DATEV eG)</i><br/>Noah Neukam<br/><br/>🤹 Microserv
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2569
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:🧘 Warum eure Microservice-Architektur nicht funktioniert
@@ -1084,7 +1084,7 @@ DESCRIPTION:<i>Mick Hohmann (Mayflower GmbH / WUEtech-Meetup-Community)</i><br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2570
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:🧘 DevOps in Enterprise-Umgebungen -  Kultur\, Organisation und Technologie
@@ -1096,7 +1096,7 @@ DESCRIPTION:<i>David Koenig (MediaMarktSaturn)</i><br/><br/>🧘 DevOps & Method
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2577
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T100000Z
 DTEND:20230621T104500Z
 SUMMARY:🧘 Machine Learning in der Cloud - die MLOps Plattform Kubeflow
@@ -1108,7 +1108,7 @@ DESCRIPTION:<i>Verena Barth (viadee Unternehmensberatung AG)</i><br/>Dr. Frank K
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2578
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T110000Z
 DTEND:20230621T114500Z
 SUMMARY:🧘 Tear Down this Wall! Tales From 3 Years Successful DevOps Collaboration.
@@ -1120,7 +1120,7 @@ DESCRIPTION:<i>Mario-Leander Reimer (QAware GmbH)</i><br/><br/>🧘 DevOps & Met
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2579
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🤹 Revolutionize Java DB App Dev with Reactive Streams and Java Virtual Threads
@@ -1132,7 +1132,7 @@ DESCRIPTION:<i>Juarez Barbosa Junior</i><br/><br/>🤹 Microservices & Domain-dr
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2580
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Clean Architecture und Microservices
@@ -1144,7 +1144,7 @@ DESCRIPTION:<i>Roland König</i><br/><br/>🤹 Microservices & Domain-driven Des
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2581
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:⛅ Kubernetes Operator in Rust
@@ -1156,7 +1156,7 @@ DESCRIPTION:<i>Enno Boland</i><br/><br/>⛅ Container- & Cloud-Technologien<br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2582
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 A High-Speed Data Ingestion Solution in Java Using MQTT\, AMQP\, and STOMP
@@ -1168,7 +1168,7 @@ DESCRIPTION:<i>Juarez Barbosa Junior (ORACLE)</i><br/><br/>🤹 Microservices & 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:🤹 Moderne Service-zu-Service-Kommunikation mit gRPC
@@ -1180,7 +1180,7 @@ DESCRIPTION:<i>Roland König</i><br/><br/>🤹 Microservices & Domain-driven Des
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2584
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🧘 Make Developers Fly: Principles for Platform Engineering
@@ -1192,7 +1192,7 @@ DESCRIPTION:<i>Robert Hoffmann (Amazon Web Services)</i><br/>Alex Krause<br/><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2589
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T100000Z
 DTEND:20230622T104500Z
 SUMMARY:🏋 Aufbau eines Digital Service Catalog mit Backstage.io
@@ -1204,7 +1204,7 @@ DESCRIPTION:<i>Alexander Troppmann (kaizen DIGITAL A. Troppmann (Freelance))</i>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2590
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:⛅ Datenschutz in der Cloud - Löst Confidential Computing das Problem?
@@ -1216,7 +1216,7 @@ DESCRIPTION:<i>Florian Kretschmer (Cloud Native Computing Rheinland)</i><br/>Vic
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2591
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🧘 Zero Trust: Wie die Cloud sicherer als der eigene Rechner wurde
@@ -1228,7 +1228,7 @@ DESCRIPTION:<i>Johann-Peter Hartmann</i><br/><br/>🧘 DevOps & Methodik<br/><br
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2592
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Sovereign Cloud Stack: Converting the Vision into Action
@@ -1240,7 +1240,7 @@ DESCRIPTION:<i>Kurt Garloff (Open Source Business Alliance e.V.)</i><br/><br/>�
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2593
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🏋 Die Cloud im Entwickleralltag der Bundesbehörde BAMF
@@ -1252,7 +1252,7 @@ DESCRIPTION:<i>Martin Möbius (Atos Information Technology GmbH)</i><br/>Thomas 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2594
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:🧘 Unsere \"Karte des Herumtreibers\": Dokumentation und Monitoring von Microservices
@@ -1264,7 +1264,7 @@ DESCRIPTION:<i>Michaela Kreipl (EnBW)</i><br/>Merlin Becker<br/><br/>🧘 DevOps
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:🏋 Evolution zu einer On-Premises Cloud aus Bausteinen (in einer Behörde)
@@ -1276,7 +1276,7 @@ DESCRIPTION:<i>Stephan Kaps (Java User Group Bonn)</i><br/><br/>🏋 Customer St
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2596
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🧘 What you always wanted to know about SRE * but were afraid to ask
@@ -1288,7 +1288,7 @@ DESCRIPTION:<i>Bastian Spanneberg (Celonis)</i><br/><br/>🧘 DevOps & Methodik<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T084500Z
 SUMMARY:🦿 Observability for Efficient DevSecOps Pipelines
@@ -1300,7 +1300,7 @@ DESCRIPTION:<i>Michael Friedrich (GitLab)</i><br/><br/>🦿 CI/CD & Automatisier
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2600
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T114500Z
 SUMMARY:⛅ Von Null auf Graph: Eine Reise zu Graphdatenbanken und Graph-basierten Analysen
@@ -1312,7 +1312,7 @@ DESCRIPTION:<i>Karin Patenge (Oracle Global Services Germany GmbH)</i><br/><br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2602
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T120000Z
 DTEND:20230623T124500Z
 SUMMARY:⛅ Mit Graph Algorithmen in der Cloud Ressourcennutzung optimieren
@@ -1324,7 +1324,7 @@ DESCRIPTION:<i>Korbi Schmid (Oracle Corporation)</i><br/><br/>⛅ Container- & C
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2604
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T130000Z
 DTEND:20230623T134500Z
 SUMMARY:🦿 Building Reliable Serverless Applications with AWS CDK and Testing
@@ -1336,7 +1336,7 @@ DESCRIPTION:<i>Raphael Manke (codecentric AG)</i><br/><br/>🦿 CI/CD & Automati
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:🦿 Bulletproof Cloud Deployments with OIDC
@@ -1348,7 +1348,7 @@ DESCRIPTION:<i>Nico Meisenzahl (white duck)</i><br/><br/>🦿 CI/CD & Automatisi
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2606
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T094500Z
 SUMMARY:⛅ Robuste Datenpipeline mit Open-Source-Software erstellen
@@ -1360,7 +1360,7 @@ DESCRIPTION:<i>Sascha Dittmann (Google Germany GmbH)</i><br/><br/>⛅ Container-
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2608
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T100000Z
 DTEND:20230621T114500Z
 SUMMARY:⛅ Distributed SQL on containers: YugabyteDB
@@ -1372,7 +1372,7 @@ DESCRIPTION:<i>Franck Pachot (Yugabyte)</i><br/><br/>⛅ Container- & Cloud-Tech
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2609
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T124500Z
 SUMMARY:🦿 Ansible Ops mit Gitlab
@@ -1384,7 +1384,7 @@ DESCRIPTION:<i>Christian Lorenz (DATEV eG)</i><br/><br/>🦿 CI/CD & Automatisie
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T130000Z
 DTEND:20230621T134500Z
 SUMMARY:🤹 Wie baue ich eine skalierbare\, ereignisgetriebene Architektur mit AWS?
@@ -1396,7 +1396,7 @@ DESCRIPTION:<i>Ben Freiberg (Amazon Web Services (AWS))</i><br/><br/>🤹 Micros
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T140000Z
 DTEND:20230621T144500Z
 SUMMARY:🧘 Meine Cloud ist kaputt - Troubleshooting in der Cloud
@@ -1408,7 +1408,7 @@ DESCRIPTION:<i>Ralph Löwe (BettercallPaul GmbH)</i><br/><br/>🧘 DevOps & Meth
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2613
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201301Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T150000Z
 DTEND:20230621T154500Z
 SUMMARY:🤹 Methods and Approaches for Creating Distributed Systems
@@ -1420,7 +1420,7 @@ DESCRIPTION:<i>Markus Wagner</i><br/><br/>🤹 Microservices & Domain-driven Des
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2614
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Advanced Observability & Security for your Kubernetes with a modern Service Mesh
@@ -1432,7 +1432,7 @@ DESCRIPTION:<i>Fabian Hardt (OPITZ CONSULTING Deutschland GmbH)</i><br/><br/>⛅
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2615
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T104500Z
 SUMMARY:⛅ Kong 101 – Einstieg in die Welt der API Gateways
@@ -1444,7 +1444,7 @@ DESCRIPTION:<i>Sven Bernhardt (OPITZ CONSULTING Deutschland GmbH)</i><br/><br/>�
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2620
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T110000Z
 DTEND:20230622T114500Z
 SUMMARY:🏋 How to Send a Goal Notification in Real-time to Hundred Thousand Bundesliga Fans?
@@ -1456,7 +1456,7 @@ DESCRIPTION:<i>Christian Bonzelet (DFL Digital Sports)</i><br/><br/>🏋 Custome
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2622
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T120000Z
 DTEND:20230622T124500Z
 SUMMARY:🧘 Clean Code für DevOps und SysAdmins
@@ -1468,7 +1468,7 @@ DESCRIPTION:<i>Janno Tjarks (ENERCON IT Service GmbH)</i><br/><br/>🧘 DevOps &
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T134500Z
 SUMMARY:⛅ Quarkus on Azure
@@ -1480,7 +1480,7 @@ DESCRIPTION:<i>Ed Burns (Microsoft)</i><br/><br/>⛅ Container- & Cloud-Technolo
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2624
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T140000Z
 DTEND:20230622T144500Z
 SUMMARY:🦿 Optimization of CI/CD Pipelines
@@ -1492,7 +1492,7 @@ DESCRIPTION:<i>Dr. Marius Shekow (SprintEins GmbH)</i><br/><br/>🦿 CI/CD & Aut
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2625
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T150000Z
 DTEND:20230622T154500Z
 SUMMARY:🧘 Scrum und OPS / Scrum vs. OPS - Eine Diskussionsrunde
@@ -1504,7 +1504,7 @@ DESCRIPTION:<i>Nadine Süß (JUG Oberland)</i><br/>Heiko Krämer<br/><br/>🧘 D
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ How to Prevent Your Kubernetes Cluster From Being Hacked
@@ -1516,7 +1516,7 @@ DESCRIPTION:<i>Nico Meisenzahl (white duck)</i><br/><br/>⛅ Container- & Cloud-
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2627
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T180000Z
 DTEND:20230622T184500Z
 SUMMARY:🦿 Mein Code ist meine Dokumentation... nur ist der nicht immer Zielgruppengerecht
@@ -1528,7 +1528,7 @@ DESCRIPTION:<i>Michael Twelkemeier (viadee Unternehmensberatung AG)</i><br/><br/
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2629
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🦿 Kubernetes Operator Hands-on
@@ -1540,7 +1540,7 @@ DESCRIPTION:<i>Axel Krämer (Heureso GmbH)</i><br/><br/>🦿 CI/CD & Automatisie
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2632
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T144500Z
 SUMMARY:⛅ Build ETL/ELT Pipelines Locally\, then Deploy and Execute at Scale on Kubernetes
@@ -1552,7 +1552,7 @@ DESCRIPTION:<i>Dr. Jan Kneissler (E. Breuninger GmbH & Co.)</i><br/><br/>⛅ Con
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T114500Z
 SUMMARY:🧘 From Pets to Cattle in your Smarthome!
@@ -1564,7 +1564,7 @@ DESCRIPTION:<i>Dominic Giebert</i><br/><br/>🧘 DevOps & Methodik<br/><br/><p>W
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2640
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T120000Z
 DTEND:20230621T144500Z
 SUMMARY:🤹 Microservices mit Golang in der Nussschale
@@ -1576,7 +1576,7 @@ DESCRIPTION:<i>Alexander Troppmann (kaizen DIGITAL A. Troppmann (Feeelance))</i>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2643
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T160000Z
 DTEND:20230621T164500Z
 SUMMARY:⛅ Learning eBPF for better Observability
@@ -1588,7 +1588,7 @@ DESCRIPTION:<i>Michael Friedrich (GitLab)</i><br/><br/>⛅ Container- & Cloud-Te
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2647
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T094500Z
 SUMMARY:🏋 From Zero to Hero – Best Practices aus cloud-native GitOps-Projekten
@@ -1600,7 +1600,7 @@ DESCRIPTION:<i>Victor Getz (iits-consulting)</i><br/><br/>🏋 Customer Stories<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2652
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T100000Z
 DTEND:20230622T124500Z
 SUMMARY:🦿 Policy Driven Microservices mit Open Policy Agent
@@ -1612,7 +1612,7 @@ DESCRIPTION:<i>Andreas Zitzelsberger (QAware GmbH)</i><br/>Alex Krause<br/><br/>
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2653
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T130000Z
 DTEND:20230622T144500Z
 SUMMARY:⛅ Mehr Sicherheit in Kubernetes - mit Kyverno
@@ -1624,7 +1624,7 @@ DESCRIPTION:<i>Mario Fahlandt</i><br/><br/>⛅ Container- & Cloud-Technologien<b
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2656
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T160000Z
 DTEND:20230622T164500Z
 SUMMARY:⛅ Let's Read Code Together
@@ -1636,7 +1636,7 @@ DESCRIPTION:<i>Jan Klippel (JUG Oberland)</i><br/>Florian Haftmann<br/><br/>⛅ 
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2659
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T080000Z
 DTEND:20230623T094500Z
 SUMMARY:🤹 OpenTelemetry für Fortgeschrittene
@@ -1648,7 +1648,7 @@ DESCRIPTION:<i>Severin Neumann (Cisco/AppDynamics || OpenTelemetry Community)</i
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2663
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T100000Z
 DTEND:20230623T134500Z
 SUMMARY:⛅ From Zero to Hero – GitOps Workshop mit K8s/Terraform/ArgoCD auf Open Telekom Cloud
@@ -1660,7 +1660,7 @@ DESCRIPTION:<i>Victor Getz (iits-consulting\, OpenTelekomCloud)</i><br/>Ulrich S
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2665
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T140000Z
 DTEND:20230623T144500Z
 SUMMARY:Siegerehrung JuiceShop CtF
@@ -1672,7 +1672,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2669
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T083000Z
 DTEND:20230620T100000Z
 SUMMARY:Marktplatz
@@ -1684,7 +1684,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2670
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp I
@@ -1696,7 +1696,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2672
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp III
@@ -1708,7 +1708,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2675
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp II
@@ -1720,7 +1720,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2676
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T170000Z
 DTEND:20230620T190000Z
 SUMMARY:Pizza & Beer
@@ -1732,7 +1732,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2680
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T190000Z
 DTEND:20230621T210000Z
 SUMMARY:Summernight
@@ -1744,7 +1744,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2682
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T083000Z
 DTEND:20230621T090000Z
 SUMMARY:Begrüßung
@@ -1756,7 +1756,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2683
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T170000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1768,7 +1768,7 @@ DESCRIPTION:<i>Martin Förtsch</i><br/><br/>⛅ Container- & Cloud-Technologien<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2684
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T170000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1780,7 +1780,7 @@ DESCRIPTION:<i>Martin Förtsch</i><br/><br/>⛅ Container- & Cloud-Technologien<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2685
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T140000Z
 SUMMARY:⛅ Innovation Hacking Showcases im Expo-Bereich
@@ -1792,7 +1792,7 @@ DESCRIPTION:<i>Martin Förtsch</i><br/><br/>⛅ Container- & Cloud-Technologien<
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2686
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T090000Z
 DTEND:20230621T210000Z
 SUMMARY:🧘 Pixelflut
@@ -1804,7 +1804,7 @@ DESCRIPTION:<i>Sandra Fischer (JUG Oberland)</i><br/><br/>🧘 DevOps & Methodik
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2689
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
 SUMMARY:🧘 Pixelflut
@@ -1816,7 +1816,7 @@ DESCRIPTION:<i>Sandra Fischer (JUG Oberland)</i><br/><br/>🧘 DevOps & Methodik
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2690
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T070000Z
 DTEND:20230623T150000Z
 SUMMARY:🧘 Pixelflut
@@ -1828,7 +1828,7 @@ DESCRIPTION:<i>Sandra Fischer (JUG Oberland)</i><br/><br/>🧘 DevOps & Methodik
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2691
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230621T100000Z
 DTEND:20230621T210000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1840,7 +1840,7 @@ DESCRIPTION:⛅ Container- & Cloud-Technologien<br/><br/><p>Auf einem Bildschirm
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2693
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T090000Z
 DTEND:20230623T130000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1852,7 +1852,7 @@ DESCRIPTION:⛅ Container- & Cloud-Technologien<br/><br/><p>Auf einem Bildschirm
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2694
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230622T090000Z
 DTEND:20230622T210000Z
 SUMMARY:⛅ CloudLand plays!
@@ -1864,7 +1864,7 @@ DESCRIPTION:⛅ Container- & Cloud-Technologien<br/><br/><p>Auf einem Bildschirm
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2695
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp IV
@@ -1876,7 +1876,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2696
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp V
@@ -1888,7 +1888,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2697
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp VI
@@ -1900,7 +1900,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2698
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp VII
@@ -1912,7 +1912,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2699
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp VIII
@@ -1924,7 +1924,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T100000Z
 DTEND:20230620T160000Z
 SUMMARY:CloudCamp IX
@@ -1936,7 +1936,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2701
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230623T070000Z
 DTEND:20230623T074500Z
 SUMMARY:Cloud Native(s) Roundtable(s) & Coffee
@@ -1948,7 +1948,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2702
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T074500Z
 DTEND:20230620T080000Z
 SUMMARY:Warm Opening
@@ -1960,7 +1960,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2706
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T080000Z
 DTEND:20230620T083000Z
 SUMMARY:Begrüßung und Eröffnung des CloudCamps
@@ -1972,7 +1972,7 @@ DESCRIPTION:
 URL:https://shop.doag.org/events/cloudland/2023/agenda/#agendaId.2707
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230405T201302Z
+DTSTAMP:20230406T004629Z
 DTSTART:20230620T160000Z
 DTEND:20230620T170000Z
 SUMMARY:Ausklang & Retrospektive
