@@ -170,38 +170,47 @@ public class CreateIcal {
                         var streamName = getStreamName.apply(value.get("mainFocus"));
                         var speaker = getSpeaker.apply(value.get("speaker"));
                         var coSpeaker = getCoSpeaker.apply(value.get("coSpeaker"));
+                        var room = getRoomById.apply(value.get("roomId"));
 
                         var description = new StringBuilder();
                         if (!speaker.isBlank()) {
-                            description.append("<i>");
+                            description.append("<b><i>🧑‍💻 ");
                             description.append(speaker);
-                            description.append("</i><br/>");
+                            description.append("</i><b/><br/>");
                         }
                         if (!coSpeaker.isBlank()) {
+                            description.append("<b><i>🧑‍💻 ");
                             description.append(coSpeaker);
-                            description.append("<br/>");
+                            description.append("</i><b/><br/>");
                         }
                         if (description.length() > 0) {
                             description.append("<br/>");
                         }
                         if (!streamName.isBlank()) {
+                            description.append("<i>");
                             description.append(icon);
                             description.append(streamName);
-                            description.append("<br/>");
+                            description.append("</i><br/>");
                         }
+                        if (!room.isBlank()) {
+                            description.append("<i>🚩 ");
+                            description.append(room);
+                            description.append("</i><br/>");
+                        }
+
                         if (description.length() > 0) {
-                            description.append("<br/>");
+                            description.append("<br/><hr/>");
                         }
                         description.append(getDescriptionByAgendaId.apply(agendaId));
 
                         var component = new VEvent(epochSecondsToDateTime(start), epochSecondsToDateTime(end),
                                 icon + title);
                         component.withProperty(new Uid("C-105." + agendaId + "." + eventSlotid));
-                        component.withProperty(new Location(getRoomById.apply(value.get("roomId"))));
+                        component.withProperty(new Location(room));
                         component.withProperty(new TzId(BERLIN));
                         component.withProperty(new Contact(speaker));
-                        component.withProperty(new Description(description.toString()));
                         component.withProperty(new Url(new URI(AGENDA_BASE_URL + "#agendaId." + agendaId)));
+                        component.withProperty(new Description(description.toString()));
 
                         return (CalendarComponent) component;
                     } catch (Exception e) {
@@ -213,7 +222,7 @@ public class CreateIcal {
         calendar.withProdId("CloudLand23")
                 .withProperty(Version.VERSION_2_0)
                 .withProperty(new Url(new URI(AGENDA_BASE_URL + "#eventDay.all")))
-                .withProperty(new Description("CloudLand 2023 Lineup - Das Cloud Native(s) Festival"));
+                .withProperty(new Description("CloudLand 2023 - Das Cloud Native(s) Festival"));
 
         var ical = calendar.toString();
 
