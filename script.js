@@ -5,7 +5,8 @@ var options = {
     editable: false,
     groupHeightMode: 'fixed',
     zoomMax: 64800000,
-    zoomMin: 3600000
+    zoomMin: 3600000,
+    locale: 'de_DE'
 };
 
 async function loadData() {
