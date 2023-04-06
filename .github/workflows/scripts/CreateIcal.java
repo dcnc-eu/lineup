@@ -176,12 +176,12 @@ public class CreateIcal {
                         if (!speaker.isBlank()) {
                             description.append("<b><i>🧑‍💻 ");
                             description.append(speaker);
-                            description.append("</i><b/><br/>");
+                            description.append("</i></b><br/>");
                         }
                         if (!coSpeaker.isBlank()) {
                             description.append("<b><i>🧑‍💻 ");
                             description.append(coSpeaker);
-                            description.append("</i><b/><br/>");
+                            description.append("</i></b><br/>");
                         }
                         if (description.length() > 0) {
                             description.append("<br/>");
