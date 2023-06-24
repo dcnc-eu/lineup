@@ -2,9 +2,6 @@
 name: Update Data from DOAG API
 on: 
   workflow_dispatch: {}
-  schedule:
-    # every hour
-    - cron: "0 */1 * * *"
 jobs:
     update_data:
         name: Update Data from DOAG API
